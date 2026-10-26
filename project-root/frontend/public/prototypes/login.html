@@ -1,0 +1,855 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Seline Analytics — Sign in</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500&family=Inter:wght@400;500;600&display=swap"
+    rel="stylesheet"
+  />
+  <style>
+    :root {
+      --color-stone-canvas: #fafaf9;
+      --color-pure-white: #ffffff;
+      --color-stone-border: #e8e6e5;
+      --color-stone-muted: #d6d3d1;
+      --color-ash-gray: #a8a29e;
+      --color-warm-gray: #78716c;
+      --color-ink-black: #0c0a09;
+      --color-soot: #1c1917;
+      --color-sky-wash: #c1e1f7;
+      --color-cyan-signal: #3ba6f1;
+      --color-cyan-edge: #3398e1;
+
+      --font-display: "Inter Tight", "Roobert", ui-sans-serif, system-ui,
+        -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      --font-body: "Inter", ui-sans-serif, system-ui, -apple-system,
+        BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+
+      --shadow-card: rgba(0, 0, 0, 0.05) 0px 4px 16px 0px;
+      --shadow-mascot: rgba(0, 0, 0, 0.25) 0px 2px 4px;
+      --radius-card: 10px;
+      --radius-input: 6px;
+      --radius-full: 9999px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html,
+    body {
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      min-height: 100vh;
+      background: var(--color-stone-canvas);
+      color: var(--color-ink-black);
+      font-family: var(--font-body);
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    button {
+      font-family: inherit;
+      cursor: pointer;
+    }
+
+    .page {
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      position: relative;
+      overflow: hidden;
+    }
+
+    /* Top bar */
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      width: 100%;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 24px 32px;
+    }
+
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 9px;
+      font-family: var(--font-body);
+      font-size: 14px;
+      font-weight: 500;
+      letter-spacing: 0;
+      color: var(--color-ink-black);
+    }
+
+    .brand-mark {
+      width: 20px;
+      height: 20px;
+      display: grid;
+      place-items: center;
+    }
+
+    .brand-mark svg {
+      width: 20px;
+      height: 20px;
+      display: block;
+    }
+
+    .topbar-link {
+      font-size: 14px;
+      font-weight: 400;
+      color: var(--color-warm-gray);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: color 160ms ease;
+    }
+
+    .topbar-link:hover {
+      color: var(--color-ink-black);
+    }
+
+    .topbar-link .arrow {
+      transition: transform 160ms ease;
+    }
+
+    .topbar-link:hover .arrow {
+      transform: translateX(2px);
+    }
+
+    /* Auth shell */
+    .auth-shell {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 32px 24px 96px;
+    }
+
+    .auth-column {
+      width: 100%;
+      max-width: 460px;
+    }
+
+    .heading-block {
+      margin-bottom: 28px;
+    }
+
+    .eyebrow {
+      display: block;
+      font-size: 12px;
+      font-weight: 500;
+      letter-spacing: 0.025em;
+      text-transform: uppercase;
+      color: var(--color-warm-gray);
+      margin-bottom: 14px;
+    }
+
+    .auth-title {
+      font-family: var(--font-display);
+      font-size: 40px;
+      line-height: 1.15;
+      letter-spacing: -0.025em;
+      font-weight: 400;
+      margin: 0;
+      color: var(--color-ink-black);
+    }
+
+    .auth-subhead {
+      margin: 14px 0 0;
+      font-size: 15px;
+      line-height: 1.6;
+      font-weight: 400;
+      color: var(--color-warm-gray);
+      max-width: 38ch;
+    }
+
+    .highlight {
+      color: var(--color-cyan-edge);
+      background: var(--color-sky-wash);
+      border-radius: 4px;
+      padding: 1px 8px;
+      white-space: nowrap;
+    }
+
+    /* Card */
+    .card {
+      background: var(--color-pure-white);
+      border: 1px solid var(--color-stone-border);
+      border-radius: var(--radius-card);
+      box-shadow: var(--shadow-card);
+      padding: 24px;
+      position: relative;
+    }
+
+    /* Segmented auth switch */
+    .segmented {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 4px;
+      padding: 4px;
+      background: #f4f2f0;
+      border: 1px solid var(--color-stone-border);
+      border-radius: var(--radius-full);
+      margin-bottom: 26px;
+    }
+
+    .segmented button {
+      border: 0;
+      background: transparent;
+      border-radius: var(--radius-full);
+      padding: 8px 14px;
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--color-warm-gray);
+      transition: background 180ms ease, color 180ms ease;
+      height: 36px;
+    }
+
+    .segmented button.active {
+      background: var(--color-soot);
+      color: var(--color-pure-white);
+    }
+
+    .field {
+      margin-bottom: 18px;
+    }
+
+    .field label {
+      display: block;
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--color-ink-black);
+      margin-bottom: 7px;
+    }
+
+    .input-wrap {
+      position: relative;
+      display: block;
+    }
+
+    .input-wrap input {
+      width: 100%;
+      height: 42px;
+      padding: 4px 12px;
+      background: var(--color-pure-white);
+      border: 1px solid var(--color-stone-muted);
+      border-radius: var(--radius-input);
+      font-family: var(--font-body);
+      font-size: 14px;
+      color: var(--color-ink-black);
+      outline: none;
+      transition: border-color 160ms ease, box-shadow 160ms ease;
+    }
+
+    .input-wrap input::placeholder {
+      color: var(--color-warm-gray);
+    }
+
+    .input-wrap input:focus {
+      border-color: var(--color-cyan-signal);
+      box-shadow: 0 0 0 3px rgba(59, 166, 241, 0.18);
+    }
+
+    .password-toggle {
+      position: absolute;
+      top: 50%;
+      right: 8px;
+      transform: translateY(-50%);
+      width: 32px;
+      height: 32px;
+      display: grid;
+      place-items: center;
+      border: 0;
+      background: transparent;
+      color: var(--color-ash-gray);
+      padding: 0;
+      transition: color 160ms ease;
+    }
+
+    .password-toggle:hover {
+      color: var(--color-ink-black);
+    }
+
+    .password-toggle svg {
+      width: 18px;
+      height: 18px;
+    }
+
+    .field-extra {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      margin-top: 8px;
+    }
+
+    .text-link {
+      font-size: 13px;
+      font-weight: 500;
+      color: var(--color-warm-gray);
+      transition: color 160ms ease;
+    }
+
+    .text-link:hover {
+      color: var(--color-ink-black);
+    }
+
+    .form-actions {
+      margin-top: 24px;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      width: 100%;
+      height: 42px;
+      padding: 8px 16px;
+      border-radius: var(--radius-full);
+      font-size: 14px;
+      font-weight: 500;
+      border: 1px solid transparent;
+      transition: transform 120ms ease, background 160ms ease,
+        border-color 160ms ease, opacity 160ms ease;
+    }
+
+    .btn:active {
+      transform: translateY(1px);
+    }
+
+    .btn-primary {
+      background: var(--color-cyan-signal);
+      border-color: var(--color-cyan-edge);
+      color: var(--color-pure-white);
+    }
+
+    .btn-primary:hover {
+      background: var(--color-cyan-edge);
+    }
+
+    .btn-ghost {
+      background: transparent;
+      border-color: var(--color-stone-border);
+      color: var(--color-ink-black);
+      font-weight: 400;
+    }
+
+    .btn-ghost:hover {
+      border-color: var(--color-stone-muted);
+      background: #fafaf9;
+    }
+
+    .btn:disabled {
+      opacity: 0.6;
+      cursor: default;
+    }
+
+    .spinner {
+      width: 16px;
+      height: 16px;
+      border: 2px solid rgba(255, 255, 255, 0.5);
+      border-top-color: #ffffff;
+      border-radius: 50%;
+      animation: spin 700ms linear infinite;
+    }
+
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
+    .divider {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin: 22px 0;
+      color: var(--color-ash-gray);
+      font-size: 12px;
+    }
+
+    .divider::before,
+    .divider::after {
+      content: "";
+      height: 1px;
+      flex: 1;
+      background: var(--color-stone-border);
+    }
+
+    .sso-btn {
+      width: 100%;
+      height: 42px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 9px;
+      background: transparent;
+      border: 1px solid var(--color-stone-border);
+      border-radius: var(--radius-full);
+      font-size: 14px;
+      font-weight: 400;
+      color: var(--color-ink-black);
+      transition: border-color 160ms ease, background 160ms ease;
+    }
+
+    .sso-btn:hover {
+      border-color: var(--color-stone-muted);
+      background: #fafaf9;
+    }
+
+    .sso-btn svg {
+      width: 16px;
+      height: 16px;
+    }
+
+    .form-note {
+      margin: 16px 0 0;
+      font-size: 12px;
+      line-height: 1.55;
+      color: var(--color-ash-gray);
+    }
+
+    .form-note a {
+      color: var(--color-warm-gray);
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
+
+    .form-note a:hover {
+      color: var(--color-ink-black);
+    }
+
+    .demo-banner {
+      display: none;
+      align-items: flex-start;
+      gap: 9px;
+      background: var(--color-sky-wash);
+      border-radius: var(--radius-card);
+      padding: 12px 14px;
+      margin-top: 18px;
+      font-size: 13px;
+      line-height: 1.45;
+      color: #0b4d74;
+    }
+
+    .demo-banner.visible {
+      display: flex;
+    }
+
+    .demo-banner .dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: var(--color-cyan-edge);
+      flex: none;
+      margin-top: 6px;
+    }
+
+    /* Trust line */
+    .trust-line {
+      margin: 22px 0 0;
+      text-align: center;
+      font-size: 13px;
+      color: var(--color-ash-gray);
+    }
+
+    .trust-line strong {
+      color: var(--color-warm-gray);
+      font-weight: 500;
+    }
+
+    /* Footer */
+    .site-footer {
+      width: 100%;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 24px 32px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      font-size: 12px;
+      color: var(--color-ash-gray);
+    }
+
+    .site-footer nav {
+      display: flex;
+      gap: 18px;
+    }
+
+    .site-footer a:hover {
+      color: var(--color-warm-gray);
+    }
+
+    /* Mascot */
+    .mascot {
+      position: absolute;
+      right: 42px;
+      bottom: 30px;
+      width: 116px;
+      height: 112px;
+      pointer-events: none;
+      filter: drop-shadow(var(--shadow-mascot));
+    }
+
+    .mascot svg {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+
+    .field-hidden {
+      display: none;
+    }
+
+    @media (max-width: 640px) {
+      .topbar {
+        padding: 20px 20px;
+      }
+
+      .auth-shell {
+        padding: 24px 16px 72px;
+      }
+
+      .auth-title {
+        font-size: 34px;
+      }
+
+      .card {
+        padding: 20px;
+      }
+
+      .mascot {
+        right: -12px;
+        bottom: 8px;
+        width: 92px;
+        height: 88px;
+      }
+
+      .site-footer {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header class="topbar">
+      <a class="brand" href="#">
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path
+              d="M13.5 3.5C11 6.2 7.5 7.8 6.5 10.7C5.7 13.1 6.7 15.8 9.1 16.9C10.4 17.5 11.7 17.2 12.6 16.3C12.6 17.5 12.2 18.7 11.4 19.9C13.9 19.4 17.2 17.4 17.2 12.6C17.2 8.9 15.5 5.2 13.5 3.5Z"
+              stroke="#0c0a09"
+              stroke-width="1.8"
+              stroke-linejoin="round"
+            />
+          </svg>
+        </span>
+        Seline
+      </a>
+      <a class="topbar-link" href="#">
+        Back to site
+        <span class="arrow" aria-hidden="true">→</span>
+      </a>
+    </header>
+
+    <main class="auth-shell">
+      <div class="auth-column">
+        <div class="heading-block">
+          <span class="eyebrow" data-eyebrow>Welcome back</span>
+          <h1 class="auth-title" data-title>
+            Your analytics, <span class="highlight">undisturbed</span>
+          </h1>
+          <p class="auth-subhead" data-subhead>
+            Sign in to your private dashboard. Your data stays yours.
+          </p>
+        </div>
+
+        <div class="card">
+          <div class="segmented" role="tablist" aria-label="Authentication mode">
+            <button type="button" class="active" data-mode="signin" role="tab" aria-selected="true">
+              Sign in
+            </button>
+            <button type="button" data-mode="register" role="tab" aria-selected="false">
+              Create account
+            </button>
+          </div>
+
+          <form id="auth-form" novalidate>
+            <div class="field field-hidden" data-register-only>
+              <label for="name">Full name</label>
+              <span class="input-wrap">
+                <input
+                  id="name"
+                  name="name"
+                  type="text"
+                  autocomplete="name"
+                  placeholder="Ada Lovelace"
+                />
+              </span>
+            </div>
+
+            <div class="field">
+              <label for="email">Email</label>
+              <span class="input-wrap">
+                <input
+                  id="email"
+                  name="email"
+                  type="email"
+                  autocomplete="email"
+                  placeholder="you@company.com"
+                />
+              </span>
+            </div>
+
+            <div class="field">
+              <label for="password">Password</label>
+              <span class="input-wrap">
+                <input
+                  id="password"
+                  name="password"
+                  type="password"
+                  autocomplete="current-password"
+                  placeholder="••••••••"
+                />
+                <button type="button" class="password-toggle" aria-label="Show password">
+                  <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path
+                      d="M2.5 12S5.5 5.5 12 5.5 21.5 12 21.5 12 18.5 18.5 12 18.5 2.5 12 2.5 12Z"
+                      stroke="currentColor"
+                      stroke-width="1.6"
+                    />
+                    <circle cx="12" cy="12" r="2.8" stroke="currentColor" stroke-width="1.6" />
+                  </svg>
+                </button>
+              </span>
+              <div class="field-extra">
+                <a class="text-link" href="#" data-forgot-link>Forgot password?</a>
+              </div>
+            </div>
+
+            <div class="form-actions">
+              <button type="submit" class="btn btn-primary" data-submit>
+                <span class="btn-label">Sign in</span>
+              </button>
+            </div>
+          </form>
+
+          <div class="demo-banner" id="demo-banner" role="status">
+            <span class="dot"></span>
+            <span>
+              UI preview only — no account was created and no request was sent.
+            </span>
+          </div>
+
+          <div class="divider">or</div>
+
+          <button type="button" class="sso-btn">
+            <svg viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path
+                d="M3.8 3.5A7.5 7.5 0 0 1 15.5 5.7"
+                stroke="#0c0a09"
+                stroke-width="1.5"
+                stroke-linecap="round"
+              />
+              <path
+                d="M14.5 14.5A7.5 7.5 0 0 1 2.8 12.3"
+                stroke="#0c0a09"
+                stroke-width="1.5"
+                stroke-linecap="round"
+              />
+              <circle cx="9" cy="9" r="6.2" stroke="#0c0a09" stroke-width="1.5" />
+            </svg>
+            Continue with Google
+          </button>
+
+          <p class="form-note" data-form-note>
+            By continuing you agree to Seline's
+            <a href="#">Terms of Service</a> and <a href="#">Privacy Policy</a>.
+          </p>
+        </div>
+
+        <p class="trust-line">
+          <strong>No tracking.</strong> No noise. Just the numbers that matter.
+        </p>
+      </div>
+    </main>
+
+    <div class="mascot" aria-hidden="true">
+      <svg viewBox="0 0 160 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path
+          d="M34 126C28 94 41 63 80 60C119 63 132 94 126 126C111 138 49 138 34 126Z"
+          fill="#fafaf9"
+          stroke="#0c0a09"
+          stroke-width="3"
+          stroke-linejoin="round"
+        />
+        <path
+          d="M58 118C61 96 99 96 102 118C100 130 60 130 58 118Z"
+          fill="#1c1917"
+        />
+        <circle cx="72" cy="111" r="3.4" fill="#ffffff" />
+        <circle cx="89" cy="111" r="3.4" fill="#ffffff" />
+        <path
+          d="M73 88C70 84 70 78 74 74"
+          stroke="#0c0a09"
+          stroke-width="3"
+          stroke-linecap="round"
+        />
+        <path
+          d="M87 88C90 84 90 78 86 74"
+          stroke="#0c0a09"
+          stroke-width="3"
+          stroke-linecap="round"
+        />
+      </svg>
+    </div>
+
+    <footer class="site-footer">
+      <span>© 2026 Seline Analytics</span>
+      <nav>
+        <a href="#">Privacy</a>
+        <a href="#">Terms</a>
+        <a href="#">Status</a>
+      </nav>
+    </footer>
+  </div>
+
+  <script>
+    const form = document.getElementById("auth-form");
+    const tabs = document.querySelectorAll(".segmented button");
+    const registerOnlyFields = document.querySelectorAll("[data-register-only]");
+    const eyebrow = document.querySelector("[data-eyebrow]");
+    const title = document.querySelector("[data-title]");
+    const subhead = document.querySelector("[data-subhead]");
+    const submitBtn = document.querySelector("[data-submit]");
+    const submitLabel = submitBtn.querySelector(".btn-label");
+    const forgotLink = document.querySelector("[data-forgot-link]");
+    const formNote = document.querySelector("[data-form-note]");
+    const passwordInput = document.getElementById("password");
+    const passwordToggle = document.querySelector(".password-toggle");
+    const demoBanner = document.getElementById("demo-banner");
+
+    const copy = {
+      signin: {
+        eyebrow: "Welcome back",
+        title: 'Your analytics, <span class="highlight">undisturbed</span>',
+        subhead: "Sign in to your private dashboard. Your data stays yours.",
+        submit: "Sign in",
+        note:
+          'By continuing you agree to Seline\'s <a href="#">Terms of Service</a> and <a href="#">Privacy Policy</a>.',
+        forgot: true,
+      },
+      register: {
+        eyebrow: "Get started",
+        title: 'Measure what matters, <span class="highlight">privately</span>',
+        subhead: "Create an account in under a minute. No credit card required.",
+        submit: "Create account",
+        note:
+          'Already have an account? <a href="#" data-switch-signin>Sign in</a> instead.',
+        forgot: false,
+      },
+    };
+
+    let mode = "signin";
+
+    function setMode(nextMode, fromNote = false) {
+      mode = nextMode;
+      const data = copy[nextMode];
+
+      tabs.forEach((tab) => {
+        const active = tab.dataset.mode === nextMode;
+        tab.classList.toggle("active", active);
+        tab.setAttribute("aria-selected", String(active));
+      });
+
+      eyebrow.textContent = data.eyebrow;
+      title.innerHTML = data.title;
+      subhead.textContent = data.subhead;
+      submitLabel.textContent = data.submit;
+      formNote.innerHTML = data.note;
+
+      registerOnlyFields.forEach((field) => {
+        field.classList.toggle("field-hidden", nextMode !== "register");
+      });
+
+      const nameInput = document.getElementById("name");
+      if (nextMode === "register") {
+        nameInput.setAttribute("required", "");
+        passwordInput.setAttribute("autocomplete", "new-password");
+      } else {
+        nameInput.removeAttribute("required");
+        passwordInput.setAttribute("autocomplete", "current-password");
+      }
+
+      demoBanner.classList.remove("visible");
+      resetSubmit();
+    }
+
+    function resetSubmit() {
+      submitBtn.disabled = false;
+      submitLabel.textContent = copy[mode].submit;
+    }
+
+    tabs.forEach((tab) => {
+      tab.addEventListener("click", () => {
+        setMode(tab.dataset.mode);
+      });
+    });
+
+    // Allow the "Sign in" link inside the register note to switch back.
+    formNote.addEventListener("click", (event) => {
+      const switchLink = event.target.closest("[data-switch-signin]");
+      if (switchLink) {
+        event.preventDefault();
+        setMode("signin");
+      }
+    });
+
+    passwordToggle.addEventListener("click", () => {
+      const showing = passwordInput.type === "text";
+      passwordInput.type = showing ? "password" : "text";
+      passwordToggle.setAttribute("aria-label", showing ? "Show password" : "Hide password");
+    });
+
+    form.addEventListener("submit", (event) => {
+      event.preventDefault();
+      if (!form.checkValidity()) {
+        form.reportValidity();
+        return;
+      }
+
+      submitBtn.disabled = true;
+      submitLabel.textContent = "";
+      const spinner = document.createElement("span");
+      spinner.className = "spinner";
+      spinner.setAttribute("aria-hidden", "true");
+      submitBtn.prepend(spinner);
+
+      // Simulate an in-flight request purely for the visual preview.
+      setTimeout(() => {
+        submitBtn.querySelector(".spinner")?.remove();
+        resetSubmit();
+        demoBanner.classList.add("visible");
+      }, 900);
+    });
+  </script>
+</body>
+</html>

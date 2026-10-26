@@ -1,0 +1,37 @@
+# ===== .dockerignore =====
+# 减少构建上下文体积，加速构建
+
+# Git
+.git
+.gitignore
+
+# 临时文件
+**/__pycache__
+**/*.pyc
+**/.pytest_cache
+**/.pytest_tmp*
+**/tmpbase
+**/.mypy_cache
+
+# 测试（不需要进镜像）
+backend/tests/
+
+# 前端 node_modules（构建时 npm ci 重装）
+frontend/node_modules/
+
+# IDE
+.vscode
+.idea
+*.swp
+
+# 环境文件（敏感信息，不进镜像）
+.env
+docker/.env
+
+# 日志
+*.log
+
+# 调试输出
+backend/_debug_out.txt
+backend/_scan_result.txt
+backend/_fix_encoding.py

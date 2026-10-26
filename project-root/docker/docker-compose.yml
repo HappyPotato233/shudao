@@ -1,0 +1,95 @@
+# ===== 蜀道安全助手 Docker Compose =====
+# 三服务：PostgreSQL + 后端(FastAPI) + 前端(Nginx)
+#
+# 使用方式：
+#   首次启动：docker compose up -d
+#   查看日志：docker compose logs -f backend
+#   停止：    docker compose down
+#   重新构建：docker compose up -d --build
+#
+# 前端访问：http://localhost:8080
+# 后端 API：http://localhost:8000/api/v1/...
+# PostgreSQL：localhost:5432（仅开发调试用，生产建议关闭端口暴露）
+
+services:
+  # ---------- PostgreSQL 数据库 ----------
+  db:
+    image: postgres:16-alpine
+    container_name: shudao-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: shudao
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-123456}
+      # 中文全文搜索需要
+      POSTGRES_INITDB_ARGS: "--encoding=UTF8 --locale=C"
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d shudao"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+    networks:
+      - shudao-net
+
+  # ---------- 后端 FastAPI ----------
+  backend:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.backend
+    container_name: shudao-backend
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      # PostgreSQL 连接串（host=db 是 docker 网络内的服务名）
+      DATABASE_URL: postgresql+asyncpg://postgres:${DB_PASSWORD:-123456}@db:5432/shudao
+      # AI 智能助手大模型（OpenAI 兼容接口）
+      LLM_API_KEY: ${LLM_API_KEY:-}
+      LLM_BASE_URL: ${LLM_BASE_URL:-}
+      LLM_MODEL_NAME: ${LLM_MODEL_NAME:-glm-5.2}
+      # 视觉大模型
+      VISULIZATION_API_KEY: ${VISULIZATION_API_KEY:-}
+      VISULIZATION_BASE_URL: ${VISULIZATION_BASE_URL:-}
+      VISULIZATION_MODEL_NAME: ${VISULIZATION_MODEL_NAME:-qwen3.7-plus}
+      # JWT 密钥（生产务必修改）
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY:-shudao-safety-dev-secret-change-in-production}
+      # 模型预热（首次启动加载 BGE 权重到内存，~90s）
+      PRELOAD_MODELS: "true"
+    ports:
+      - "8000:8000"
+    volumes:
+      # 上传文件持久化
+      - ../uploads:/app/uploads
+      # Chroma 向量索引持久化（重建索引后保留）
+      - ../chroma_data:/app/chroma_data
+    networks:
+      - shudao-net
+
+  # ---------- 前端 Nginx ----------
+  frontend:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.frontend
+    container_name: shudao-frontend
+    restart: unless-stopped
+    depends_on:
+      - backend
+    ports:
+      - "8080:80"
+    networks:
+      - shudao-net
+
+# 持久化卷
+volumes:
+  pgdata:
+    driver: local
+
+# 内部网络
+networks:
+  shudao-net:
+    driver: bridge

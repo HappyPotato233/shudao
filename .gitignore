@@ -1,0 +1,72 @@
+# ---------- 密钥 / 环境变量 ----------
+.env
+.env.*
+*.pem
+*.key
+
+# ---------- 数据库文件 ----------
+*.db
+*.sqlite
+*.sqlite3
+*.sqlite3-journal
+*.sqlite3.bak
+
+# ---------- 模型权重 ----------
+models/
+*.bin
+*.safetensors
+*.onnx
+*.pt
+*.pth
+*.ckpt
+*.gguf
+*.h5
+*.pkl
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+env/
+venv/
+ENV/
+
+# ---------- 测试 ----------
+.pytest_cache/
+.pytest_tmp*/
+tmpbase/
+.coverage
+htmlcov/
+.tox/
+
+# ---------- 前端 ----------
+node_modules/
+dist/
+*.tsbuildinfo
+.vite/
+
+# ---------- 本地数据 ----------
+data/
+project-root/uploads/
+project-root/chroma_data/
+
+# ---------- 日志 / 临时文件 ----------
+*.log
+_debug_out.txt
+*.tmp
+*.swp
+# 评测运行的过程日志（保留评测报告，不保留过程日志）
+test_report/_*log.txt
+
+# ---------- 压缩包 / 二进制分发包 ----------
+*.zip
+*.tar
+*.gz
+
+# ---------- IDE / 操作系统 ----------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

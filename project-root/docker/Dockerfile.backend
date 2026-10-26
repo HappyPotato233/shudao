@@ -1,0 +1,81 @@
+# ===== 后端 Dockerfile =====
+# 多阶段构建：先装依赖，再拷代码+模型
+
+# ---------- 阶段1：依赖层（缓存友好）----------
+FROM python:3.11-slim AS builder
+
+# 系统依赖：opencv、reportlab、chromadb 需要的 C 库
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    build-essential \
+    libgl1-mesa-glx \
+    libglib2.0-0 \
+    libsm6 \
+    libxext6 \
+    libxrender-dev \
+    libjpeg-dev \
+    zlib1g-dev \
+    libpq-dev \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /build
+
+# 先拷 requirements.txt，利用 Docker 层缓存
+COPY backend/requirements.txt .
+
+# 升级 pip + 安装依赖到 /build/site-packages
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir --target=/build/site-packages -r requirements.txt && \
+    # asyncpg：PostgreSQL 异步驱动（requirements.txt 没有，Docker 环境必须）
+    pip install --no-cache-dir --target=/build/site-packages asyncpg
+
+# ---------- 阶段2：运行时镜像 ----------
+FROM python:3.11-slim
+
+# 运行时系统依赖（精简版，不含 build-essential）
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    libgl1-mesa-glx \
+    libglib2.0-0 \
+    libsm6 \
+    libxext6 \
+    libxrender1 \
+    libjpeg62-turbo \
+    libpq5 \
+    # 中文字体：reportlab PDF 导出需要
+    fonts-noto-cjk \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+# 从 builder 拷贝已安装的 Python 依赖
+COPY --from=builder /build/site-packages /usr/local/lib/python3.11/site-packages
+
+# 拷贝后端代码
+COPY backend/ /app/
+
+# 拷贝本地模型权重（BGE-large + BGE-rerank，约 1.3GB）
+# 如果镜像太大，可改为运行时挂载 volume（见 docker-compose.yml 注释）
+COPY models/ /app/models/
+
+# 拷贝知识库源数据（KB 证据数据）
+COPY database/ /app/database/
+
+# 拷贝 Chroma 向量索引（已建好的索引，避免重建）
+COPY chroma_data/ /app/chroma_data/
+
+# 确保 uploads 目录存在
+RUN mkdir -p /app/uploads
+
+# 环境变量默认值（docker-compose.yml 会覆盖）
+ENV PYTHONPATH=/app \
+    PYTHONUNBUFFERED=1 \
+    PYTHONDONTWRITEBYTECODE=1 \
+    HOST=0.0.0.0 \
+    PORT=8000 \
+    PRELOAD_MODELS=true \
+    DATABASE_URL=postgresql+asyncpg://postgres:123456@db:5432/shudao
+
+EXPOSE 8000
+
+# 启动命令：uvicorn 单进程（Docker 环境不用 --reload）
+# 多 worker 部署：uvicorn app.main:app --host 0.0.0.0 --port 8000 --workers 4
+CMD ["python", "-m", "uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]

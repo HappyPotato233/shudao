@@ -1,0 +1,6402 @@
+[
+  {
+    "strategy": "BM25-only",
+    "index": 1,
+    "group": "query-1chunk",
+    "query": "安全奖惩考核制度中对吉林省高速公路集团有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 2,
+    "group": "query-1chunk",
+    "query": "安全奖惩考核制度中对重大事故责任事故有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 3,
+    "group": "query-1chunk",
+    "query": "生产安全事故隐患排查治理制度中对指挥部隐患集团公司有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 4,
+    "group": "query-1chunk",
+    "query": "生产安全事故隐患排查治理制度中对安全隐患检查及时有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 5,
+    "group": "query-1chunk",
+    "query": "湖里金山厦门真乐净环境有限公司 “8·10”一般高处坠落事故调查报告中关于调查组湖里区2024的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 6,
+    "group": "query-1chunk",
+    "query": "惠城区汝湖镇三和管桩厂“9·22”机械伤害事故调查报告中关于00xx张拉的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 7,
+    "group": "query-1chunk",
+    "query": "惠城区汝湖镇三和管桩厂“9·22”机械伤害事故调查报告中关于监督管理应急内该的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 8,
+    "group": "query-1chunk",
+    "query": "晋济高速公路山西晋城段岩后隧道\"3·1\"特别重大道路交通危化品燃爆事故调查报告中关于煤焦拥堵车辆的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 9,
+    "group": "query-1chunk",
+    "query": "晋济高速公路山西晋城段岩后隧道\"3·1\"特别重大道路交通危化品燃爆事故调查报告中关于营运收回货物的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 10,
+    "group": "query-1chunk",
+    "query": "晋济高速公路山西晋城段岩后隧道\"3·1\"特别重大道路交通危化品燃爆事故调查报告中关于值班室1619的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 11,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《公路水运工程生产安全重大事故隐患判定标准》的通知中关于2025的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.8
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 12,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《公路水运工程生产安全重大事故隐患判定标准》的通知中关于安全事故的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 13,
+    "group": "query-1chunk",
+    "query": "惠城三栋中洲南麓院“10·17”一般物体打击事故调查报告中关于承包本合同消防系统的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 14,
+    "group": "query-1chunk",
+    "query": "惠城三栋中洲南麓院“10·17”一般物体打击事故调查报告中关于事故隐患排查职工的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 15,
+    "group": "query-1chunk",
+    "query": "发生体育场馆物资场所时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 16,
+    "group": "query-1chunk",
+    "query": "惠城区龙丰街道“8•7”机械伤害事故调查报告中关于安全管理职责的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 17,
+    "group": "query-1chunk",
+    "query": "发生专项指挥机构职责时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 18,
+    "group": "query-1chunk",
+    "query": "发生国省干线公路时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 19,
+    "group": "query-1chunk",
+    "query": "发生指挥部报局整改措施时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 20,
+    "group": "query-1chunk",
+    "query": "反接40扳到的操作规程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 21,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于05惠州市2003的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 22,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于建字4413022017的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 23,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于安全生产安全检查的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 24,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于监理扣分安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 25,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于监督监督机构安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 26,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于脚手架原因作业的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 27,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于安全生产模板的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 28,
+    "group": "query-1chunk",
+    "query": "红花湖景区广东金榜健康泉水饮品股份有限公司“8.8”触电亡人事故调查报告中关于CMSPROCHANNELCODE的情况是",
+    "recall@5": true,
+    "context_precision@5": 0.8
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 29,
+    "group": "query-1chunk",
+    "query": "交通运输综合应急预案中关于交通运输综合应急预案。有什么规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 30,
+    "group": "query-1chunk",
+    "query": "发生值守司局16时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 31,
+    "group": "query-1chunk",
+    "query": "发生报部海事局评估时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 32,
+    "group": "query-1chunk",
+    "query": "发生处置4.1信息时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 33,
+    "group": "query-1chunk",
+    "query": "发生30报局8.4时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 34,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《内河运输船舶重大事故隐患判定标准》的通知中关于载运停泊内河的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 35,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《内河运输船舶重大事故隐患判定标准》的通知中关于配员货物载运的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 36,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团三环东路清淤工程“3·21”窒息事故调查报告中关于12工程施工2021的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 37,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团三环东路清淤工程“3·21”窒息事故调查报告中关于现场作业经过的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 38,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团三环东路清淤工程“3·21”窒息事故调查报告中关于惠城承包单位由该的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 39,
+    "group": "query-1chunk",
+    "query": "惠城区世贸中心三期项目“9·9”高空坠物亡人事故调查报告中关于CMSPROCHANNELCODE的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.8
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 40,
+    "group": "query-1chunk",
+    "query": "惠城区世贸中心三期项目“9·9”高空坠物亡人事故调查报告中关于生产罚款五十万元的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 41,
+    "group": "query-1chunk",
+    "query": "惠城区世贸中心三期项目“9·9”高空坠物亡人事故调查报告中关于生产罚款规定的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 42,
+    "group": "query-1chunk",
+    "query": "惠城区世贸中心三期项目“9·9”高空坠物亡人事故调查报告中关于安全生产确保安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 43,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于管理机构监督运输的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 44,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于运输709国务院令的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 45,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于所得违法10的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 46,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于客运车辆照后抄告的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 47,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于重点对象执法工作的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 48,
+    "group": "query-1chunk",
+    "query": "风险评估与分级管控制度中对应急处置安全有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 49,
+    "group": "query-1chunk",
+    "query": "风险评估与分级管控制度中对致险安全安全意识有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 50,
+    "group": "query-1chunk",
+    "query": "与从业人员的劳动合同制度中对法律法规签订按照有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 51,
+    "group": "query-1chunk",
+    "query": "发生印发2016国办时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 52,
+    "group": "query-1chunk",
+    "query": "发生发布发布会授权时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 53,
+    "group": "query-1chunk",
+    "query": "15.115应经的操作规程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 54,
+    "group": "query-1chunk",
+    "query": "金属支架碘钨灯0.2的操作规程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 55,
+    "group": "query-1chunk",
+    "query": "34低洼积水的操作规程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 56,
+    "group": "query-1chunk",
+    "query": "间距6528.1的操作规程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 57,
+    "group": "query-1chunk",
+    "query": "发生队伍港口救援时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 58,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团公司下属排水中心城西所丰山泵站“5·19”一般高处坠落事故调查报告中关于CMSPRO惠城区CHANNEL的",
+    "recall@5": true,
+    "context_precision@5": 0.8
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 59,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团公司下属排水中心城西所丰山泵站“5·19”一般高处坠落事故调查报告中关于责任一岗双责追责的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 60,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团公司下属排水中心城西所丰山泵站“5·19”一般高处坠落事故调查报告中关于事故隐患生产安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 61,
+    "group": "query-1chunk",
+    "query": "全国人民代表大会常务委员会修正第十次的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 62,
+    "group": "query-1chunk",
+    "query": "危险物品物品或者的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 63,
+    "group": "query-1chunk",
+    "query": "改正处罚责令的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 64,
+    "group": "query-1chunk",
+    "query": "职责部门本法的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 65,
+    "group": "query-1chunk",
+    "query": "行政处罚监督管理负有的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 66,
+    "group": "query-1chunk",
+    "query": "监督管理监察职责的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 67,
+    "group": "query-1chunk",
+    "query": "建设项目危险物品装卸的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 68,
+    "group": "query-1chunk",
+    "query": "罚款五万元改正的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 69,
+    "group": "query-1chunk",
+    "query": "单位培训教育的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 70,
+    "group": "query-1chunk",
+    "query": "专职管理机构管理人员的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 71,
+    "group": "query-1chunk",
+    "query": "具备经营行业标准的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 72,
+    "group": "query-1chunk",
+    "query": "查明责任事故应当的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 73,
+    "group": "query-1chunk",
+    "query": "事故救援安全事故的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 74,
+    "group": "query-1chunk",
+    "query": "清单监督管理负有的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 75,
+    "group": "query-1chunk",
+    "query": "强制性国家标准国务院的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 76,
+    "group": "query-1chunk",
+    "query": "单位服务技术的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 77,
+    "group": "query-1chunk",
+    "query": "事故责任追究责任人员的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 78,
+    "group": "query-1chunk",
+    "query": "事故隐患管控分级的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 79,
+    "group": "query-1chunk",
+    "query": "国务院动火操作规程的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 80,
+    "group": "query-1chunk",
+    "query": "危险源应当单位的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 81,
+    "group": "query-1chunk",
+    "query": "重大隐患排查治理“双报告”制度中对安全事故隐患生产有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 82,
+    "group": "query-1chunk",
+    "query": "重大隐患排查治理“双报告”制度中对事故隐患负责人组织有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 83,
+    "group": "query-1chunk",
+    "query": "发生安全公共安全时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 84,
+    "group": "query-1chunk",
+    "query": "发生做好信息工作时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 85,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于安全规定港口法的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 86,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于超能力超范围安全的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 87,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于适用的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 88,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于安全指有防爆的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 89,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于易燃物质爆炸品的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 90,
+    "group": "query-1chunk",
+    "query": "惠城区三栋镇中洲云悦府工地“10·16”高处坠落事故调查报告中关于作业安全人员的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 91,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于机具施工现场配件有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 92,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于作业防护有权有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 93,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于国务院监督管理建设有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 94,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于抄送监督管理同级有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 95,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于特种设备监督管理报告有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 96,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于救援应急承包单位有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 97,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于应急救援配备有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 98,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于资质证书行政行政处分有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 99,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于责令资质证书资质等级有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 100,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于施工消防设施机具有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 101,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于科学管理推广应用第二章有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 102,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于资料单位有关有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 103,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于设计安全事故施工有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 104,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于监理施工应当有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 105,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于起重机械施工脚手架有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 106,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于安全检查施工单位单位有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 107,
+    "group": "query-1chunk",
+    "query": "惠城区桥东街道“2021·3·29”赫斯特酒吧装修项目高空坠落亡人事故调查报告中关于22惠州市东湖的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 108,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于积水坑存17的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 109,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于6.15.14.3的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 110,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于危品规划平面图的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 111,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于消防监督指导的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 112,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于验收建设项目环境保护的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 113,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于天津市诫勉47的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 114,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于生产吊销其具备的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 115,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于化学品应急预案的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 116,
+    "group": "query-1chunk",
+    "query": "惠城马安广东药坊宝大健康产业生产厂房建设项目“10·11”一般高处坠落事故调查报告中关于监理及时发现佩戴的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 117,
+    "group": "query-1chunk",
+    "query": "惠城马安广东药坊宝大健康产业生产厂房建设项目“10·11”一般高处坠落事故调查报告中关于惠州市法定代表住所的情况是怎样的",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 118,
+    "group": "query-1chunk",
+    "query": "惠城水口“9·8”一般触电事故调查报告中关于作业特种高处的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 119,
+    "group": "query-1chunk",
+    "query": "惠城水口“9·8”一般触电事故调查报告中关于保护区线路架空的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 120,
+    "group": "query-1chunk",
+    "query": "发生202430日期时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 121,
+    "group": "query-2chunk",
+    "query": "惠城水口地下管网系统提升工程项目“4·10”一般窒息事故调查报告中关于CMSPRO惠城区CHANNEL的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 122,
+    "group": "query-2chunk",
+    "query": "惠城水口地下管网系统提升工程项目“4·10”一般窒息事故调查报告中关于安全施工岗位责任的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 123,
+    "group": "query-2chunk",
+    "query": "惠城水口地下管网系统提升工程项目“4·10”一般窒息事故调查报告中关于3.4生产从业人员的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 124,
+    "group": "query-2chunk",
+    "query": "自贸区象屿园区“4·9”一般 车辆伤害事故调查报告中关于2025保险0000kg的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 125,
+    "group": "query-2chunk",
+    "query": "自贸区象屿园区“4·9”一般 车辆伤害事故调查报告中关于四是天鑫晟规定的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 126,
+    "group": "query-2chunk",
+    "query": "自贸区象屿园区“4·9”一般 车辆伤害事故调查报告中关于运输道路监管的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 127,
+    "group": "query-2chunk",
+    "query": "自贸区象屿园区“4·9”一般 车辆伤害事故调查报告中关于第一款应急中华人民共和国的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 128,
+    "group": "query-2chunk",
+    "query": "珑誉花园项目建筑工地“1·15”物体打击事故调查报告中关于CMSPRO惠城区CHANNEL的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 129,
+    "group": "query-2chunk",
+    "query": "发生搜索专栏专题时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 130,
+    "group": "query-2chunk",
+    "query": "包茂高速陕西延安“8·26”特别重大道路交通事故调查报告中关于支部委员车辆驾驶安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 131,
+    "group": "query-2chunk",
+    "query": "惠州市鹅城大桥及引道工程（江北段）“12·6”一般物体打击事故调查报告中关于CMSPROCHANNELCODE的情况是怎",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 132,
+    "group": "query-2chunk",
+    "query": "发生指导部门海事时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 133,
+    "group": "query-2chunk",
+    "query": "发生运输顺利开展抢险救灾时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 134,
+    "group": "query-2chunk",
+    "query": "发生警示通行危险源时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 135,
+    "group": "query-2chunk",
+    "query": "新力花园项目建筑工地“9·23”高处坠亡事故的调查报告中关于04承包单位2002的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 136,
+    "group": "query-2chunk",
+    "query": "湖里金山“7·20”一般道路交通 事故调查报告中关于202422分许的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 137,
+    "group": "query-2chunk",
+    "query": "湖里金山“7·20”一般道路交通 事故调查报告中关于20252400的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 138,
+    "group": "query-2chunk",
+    "query": "湖里金山“7·20”一般道路交通 事故调查报告中关于车行道辅道东侧的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 139,
+    "group": "query-2chunk",
+    "query": "湖里金山“7·20”一般道路交通 事故调查报告中关于应急演练预案的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 140,
+    "group": "query-2chunk",
+    "query": "惠城水口TCL项目“9·16”一般高处坠落事故调查报告中关于提升机吊绳吊篮的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 141,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于事故现场平桥节筒壁的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 142,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于劳务奉信魏县的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 143,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于劳动合同劳动关系的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 144,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于布置线自197.1的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 145,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于预拌混凝土水泥的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 146,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于预拌搅拌站混凝土的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 147,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于丰城市信息化29的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 148,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于项目部承包李峻的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 149,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于电力安全监管不力的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 150,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于以上罚款50的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 151,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于......事故隐患施工单位的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 152,
+    "group": "query-2chunk",
+    "query": "海沧隧道“9·8”一般道路交通 事故调查报告中关于明材物流林志成的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 153,
+    "group": "query-2chunk",
+    "query": "京珠高速河南信阳“7·22”特别重大 卧铺客车燃烧事故调查报告中关于责任事故因涉嫌21的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 154,
+    "group": "query-2chunk",
+    "query": "惠城区仲恺大道“1·17”道路交通事故调查报告中关于改正责令生产的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 155,
+    "group": "query-2chunk",
+    "query": "惠城区河南岸街道“9·26”一般高处坠落亡人事故调查报告中关于CMSPROCHANNELCODE的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 1.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 156,
+    "group": "query-2chunk",
+    "query": "安全生产责任制度中对负责人集团公司协助有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 157,
+    "group": "query-2chunk",
+    "query": "安全生产责任制度中对交办充分考虑总师有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 158,
+    "group": "query-2chunk",
+    "query": "安全生产责任制度中对高速公路运营标准有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 159,
+    "group": "query-2chunk",
+    "query": "安全生产责任制度中对吉高负责财务预算有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 160,
+    "group": "query-2chunk",
+    "query": "湖里金山厦门齐洪物资回收有限公司 “10·16”一般高坠事故调查报告中关于湖里区调查组监委的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 161,
+    "group": "query-2chunk",
+    "query": "湖里金山厦门齐洪物资回收有限公司 “10·16”一般高坠事故调查报告中关于小散整改措施安全意识的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 162,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于10惠州市2022的情况是",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 163,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于生产具备安全的情况是怎样的",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 164,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于水运交通运输公路的情况是怎",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 165,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于惠城区生产管理局的情况是怎",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 166,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于安全生产单位的情况是怎样的",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 167,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于安全生产单位的情况是怎样的",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 168,
+    "group": "query-2chunk",
+    "query": "发生救援事故互救时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 169,
+    "group": "query-2chunk",
+    "query": "安全生产责任保险制度中对依据保险安全监管有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 170,
+    "group": "query-2chunk",
+    "query": "广东省惠州市“11·28”一般叉车碰撞事故调查报告中关于CMSPRO惠城区特种设备的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 171,
+    "group": "query-3chunk",
+    "query": "从业人员订立依法的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 172,
+    "group": "query-3chunk",
+    "query": "安全事故赔偿19的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 173,
+    "group": "query-3chunk",
+    "query": "应当部门移送的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 174,
+    "group": "query-3chunk",
+    "query": "查明责任事故应当的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 175,
+    "group": "query-3chunk",
+    "query": "五万元改正责令的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 176,
+    "group": "query-3chunk",
+    "query": "发生指挥机构防洪工程具体安排时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 177,
+    "group": "query-3chunk",
+    "query": "14.1脚手架登高的操作规程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 178,
+    "group": "query-3chunk",
+    "query": "2514.112的操作规程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 179,
+    "group": "query-3chunk",
+    "query": "立杆剪刀绑扎的操作规程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 180,
+    "group": "query-3chunk",
+    "query": "安全生产事故责任追究制度中对第二十二章有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 181,
+    "group": "query-3chunk",
+    "query": "安全生产事故责任追究制度中对事故责任人员或者有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 182,
+    "group": "query-3chunk",
+    "query": "安全生产事故责任追究制度中对责任情况10有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 183,
+    "group": "query-3chunk",
+    "query": "安全生产事故责任追究制度中对认定事故做出有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 184,
+    "group": "query-3chunk",
+    "query": "非法占有收受贿赂利用职权的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 185,
+    "group": "query-3chunk",
+    "query": "机动车通行城市道路的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 186,
+    "group": "query-3chunk",
+    "query": "行政处分禁闭交通警察的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 187,
+    "group": "query-3chunk",
+    "query": "罚款行政处罚加处的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 188,
+    "group": "query-3chunk",
+    "query": "交通交通标志标线的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 189,
+    "group": "query-3chunk",
+    "query": "道路依法恢复原状的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 190,
+    "group": "query-3chunk",
+    "query": "交通警察交通管理职权的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 191,
+    "group": "query-3chunk",
+    "query": "车辆驾驶应当立即的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 192,
+    "group": "query-3chunk",
+    "query": "非机动车右侧机动车的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 193,
+    "group": "query-3chunk",
+    "query": "设置应当道路的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 194,
+    "group": "query-3chunk",
+    "query": "机动车以下五百元的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 195,
+    "group": "query-3chunk",
+    "query": "机动车驾驶证吊销的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 196,
+    "group": "query-3chunk",
+    "query": "机动车牌证相应的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 197,
+    "group": "query-3chunk",
+    "query": "机动车驾驶安全的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 198,
+    "group": "query-3chunk",
+    "query": "应当故障清障车的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 199,
+    "group": "query-3chunk",
+    "query": "牌证工本费上缴国库的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "BM25-only",
+    "index": 200,
+    "group": "query-3chunk",
+    "query": "交通警察交通管理违法行为的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 1,
+    "group": "query-1chunk",
+    "query": "安全奖惩考核制度中对吉林省高速公路集团有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 2,
+    "group": "query-1chunk",
+    "query": "安全奖惩考核制度中对重大事故责任事故有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 3,
+    "group": "query-1chunk",
+    "query": "生产安全事故隐患排查治理制度中对指挥部隐患集团公司有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 4,
+    "group": "query-1chunk",
+    "query": "生产安全事故隐患排查治理制度中对安全隐患检查及时有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 5,
+    "group": "query-1chunk",
+    "query": "湖里金山厦门真乐净环境有限公司 “8·10”一般高处坠落事故调查报告中关于调查组湖里区2024的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 6,
+    "group": "query-1chunk",
+    "query": "惠城区汝湖镇三和管桩厂“9·22”机械伤害事故调查报告中关于00xx张拉的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 7,
+    "group": "query-1chunk",
+    "query": "惠城区汝湖镇三和管桩厂“9·22”机械伤害事故调查报告中关于监督管理应急内该的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 8,
+    "group": "query-1chunk",
+    "query": "晋济高速公路山西晋城段岩后隧道\"3·1\"特别重大道路交通危化品燃爆事故调查报告中关于煤焦拥堵车辆的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 9,
+    "group": "query-1chunk",
+    "query": "晋济高速公路山西晋城段岩后隧道\"3·1\"特别重大道路交通危化品燃爆事故调查报告中关于营运收回货物的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 10,
+    "group": "query-1chunk",
+    "query": "晋济高速公路山西晋城段岩后隧道\"3·1\"特别重大道路交通危化品燃爆事故调查报告中关于值班室1619的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 11,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《公路水运工程生产安全重大事故隐患判定标准》的通知中关于2025的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 12,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《公路水运工程生产安全重大事故隐患判定标准》的通知中关于安全事故的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 13,
+    "group": "query-1chunk",
+    "query": "惠城三栋中洲南麓院“10·17”一般物体打击事故调查报告中关于承包本合同消防系统的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 14,
+    "group": "query-1chunk",
+    "query": "惠城三栋中洲南麓院“10·17”一般物体打击事故调查报告中关于事故隐患排查职工的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 15,
+    "group": "query-1chunk",
+    "query": "发生体育场馆物资场所时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 16,
+    "group": "query-1chunk",
+    "query": "惠城区龙丰街道“8•7”机械伤害事故调查报告中关于安全管理职责的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 17,
+    "group": "query-1chunk",
+    "query": "发生专项指挥机构职责时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 18,
+    "group": "query-1chunk",
+    "query": "发生国省干线公路时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 19,
+    "group": "query-1chunk",
+    "query": "发生指挥部报局整改措施时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 20,
+    "group": "query-1chunk",
+    "query": "反接40扳到的操作规程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 21,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于05惠州市2003的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 22,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于建字4413022017的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 23,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于安全生产安全检查的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 24,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于监理扣分安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 25,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于监督监督机构安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 26,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于脚手架原因作业的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 27,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于安全生产模板的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 28,
+    "group": "query-1chunk",
+    "query": "红花湖景区广东金榜健康泉水饮品股份有限公司“8.8”触电亡人事故调查报告中关于CMSPROCHANNELCODE的情况是",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 29,
+    "group": "query-1chunk",
+    "query": "交通运输综合应急预案中关于交通运输综合应急预案。有什么规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 30,
+    "group": "query-1chunk",
+    "query": "发生值守司局16时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 31,
+    "group": "query-1chunk",
+    "query": "发生报部海事局评估时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 32,
+    "group": "query-1chunk",
+    "query": "发生处置4.1信息时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 33,
+    "group": "query-1chunk",
+    "query": "发生30报局8.4时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 34,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《内河运输船舶重大事故隐患判定标准》的通知中关于载运停泊内河的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 35,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《内河运输船舶重大事故隐患判定标准》的通知中关于配员货物载运的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 36,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团三环东路清淤工程“3·21”窒息事故调查报告中关于12工程施工2021的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 37,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团三环东路清淤工程“3·21”窒息事故调查报告中关于现场作业经过的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 38,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团三环东路清淤工程“3·21”窒息事故调查报告中关于惠城承包单位由该的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 39,
+    "group": "query-1chunk",
+    "query": "惠城区世贸中心三期项目“9·9”高空坠物亡人事故调查报告中关于CMSPROCHANNELCODE的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.8
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 40,
+    "group": "query-1chunk",
+    "query": "惠城区世贸中心三期项目“9·9”高空坠物亡人事故调查报告中关于生产罚款五十万元的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 41,
+    "group": "query-1chunk",
+    "query": "惠城区世贸中心三期项目“9·9”高空坠物亡人事故调查报告中关于生产罚款规定的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 42,
+    "group": "query-1chunk",
+    "query": "惠城区世贸中心三期项目“9·9”高空坠物亡人事故调查报告中关于安全生产确保安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 43,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于管理机构监督运输的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 44,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于运输709国务院令的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 45,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于所得违法10的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 46,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于客运车辆照后抄告的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 47,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于重点对象执法工作的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 48,
+    "group": "query-1chunk",
+    "query": "风险评估与分级管控制度中对应急处置安全有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 49,
+    "group": "query-1chunk",
+    "query": "风险评估与分级管控制度中对致险安全安全意识有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 50,
+    "group": "query-1chunk",
+    "query": "与从业人员的劳动合同制度中对法律法规签订按照有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 51,
+    "group": "query-1chunk",
+    "query": "发生印发2016国办时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 52,
+    "group": "query-1chunk",
+    "query": "发生发布发布会授权时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 53,
+    "group": "query-1chunk",
+    "query": "15.115应经的操作规程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 54,
+    "group": "query-1chunk",
+    "query": "金属支架碘钨灯0.2的操作规程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 55,
+    "group": "query-1chunk",
+    "query": "34低洼积水的操作规程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 56,
+    "group": "query-1chunk",
+    "query": "间距6528.1的操作规程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 57,
+    "group": "query-1chunk",
+    "query": "发生队伍港口救援时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 58,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团公司下属排水中心城西所丰山泵站“5·19”一般高处坠落事故调查报告中关于CMSPRO惠城区CHANNEL的",
+    "recall@5": true,
+    "context_precision@5": 0.8
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 59,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团公司下属排水中心城西所丰山泵站“5·19”一般高处坠落事故调查报告中关于责任一岗双责追责的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 60,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团公司下属排水中心城西所丰山泵站“5·19”一般高处坠落事故调查报告中关于事故隐患生产安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 61,
+    "group": "query-1chunk",
+    "query": "全国人民代表大会常务委员会修正第十次的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 62,
+    "group": "query-1chunk",
+    "query": "危险物品物品或者的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 63,
+    "group": "query-1chunk",
+    "query": "改正处罚责令的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 64,
+    "group": "query-1chunk",
+    "query": "职责部门本法的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 65,
+    "group": "query-1chunk",
+    "query": "行政处罚监督管理负有的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 66,
+    "group": "query-1chunk",
+    "query": "监督管理监察职责的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 67,
+    "group": "query-1chunk",
+    "query": "建设项目危险物品装卸的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 68,
+    "group": "query-1chunk",
+    "query": "罚款五万元改正的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 69,
+    "group": "query-1chunk",
+    "query": "单位培训教育的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 70,
+    "group": "query-1chunk",
+    "query": "专职管理机构管理人员的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 71,
+    "group": "query-1chunk",
+    "query": "具备经营行业标准的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 72,
+    "group": "query-1chunk",
+    "query": "查明责任事故应当的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 73,
+    "group": "query-1chunk",
+    "query": "事故救援安全事故的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 74,
+    "group": "query-1chunk",
+    "query": "清单监督管理负有的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 75,
+    "group": "query-1chunk",
+    "query": "强制性国家标准国务院的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 76,
+    "group": "query-1chunk",
+    "query": "单位服务技术的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 77,
+    "group": "query-1chunk",
+    "query": "事故责任追究责任人员的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 78,
+    "group": "query-1chunk",
+    "query": "事故隐患管控分级的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 79,
+    "group": "query-1chunk",
+    "query": "国务院动火操作规程的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 80,
+    "group": "query-1chunk",
+    "query": "危险源应当单位的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 81,
+    "group": "query-1chunk",
+    "query": "重大隐患排查治理“双报告”制度中对安全事故隐患生产有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 82,
+    "group": "query-1chunk",
+    "query": "重大隐患排查治理“双报告”制度中对事故隐患负责人组织有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 83,
+    "group": "query-1chunk",
+    "query": "发生安全公共安全时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 84,
+    "group": "query-1chunk",
+    "query": "发生做好信息工作时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 85,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于安全规定港口法的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 86,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于超能力超范围安全的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 87,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于适用的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 88,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于安全指有防爆的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 89,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于易燃物质爆炸品的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 90,
+    "group": "query-1chunk",
+    "query": "惠城区三栋镇中洲云悦府工地“10·16”高处坠落事故调查报告中关于作业安全人员的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 91,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于机具施工现场配件有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 92,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于作业防护有权有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 93,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于国务院监督管理建设有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 94,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于抄送监督管理同级有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 95,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于特种设备监督管理报告有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 96,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于救援应急承包单位有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 97,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于应急救援配备有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 98,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于资质证书行政行政处分有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 99,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于责令资质证书资质等级有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 100,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于施工消防设施机具有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 101,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于科学管理推广应用第二章有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 102,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于资料单位有关有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 103,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于设计安全事故施工有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 104,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于监理施工应当有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 105,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于起重机械施工脚手架有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 106,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于安全检查施工单位单位有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 107,
+    "group": "query-1chunk",
+    "query": "惠城区桥东街道“2021·3·29”赫斯特酒吧装修项目高空坠落亡人事故调查报告中关于22惠州市东湖的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 108,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于积水坑存17的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 109,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于6.15.14.3的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 110,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于危品规划平面图的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 111,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于消防监督指导的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 112,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于验收建设项目环境保护的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 113,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于天津市诫勉47的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 114,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于生产吊销其具备的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 115,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于化学品应急预案的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 116,
+    "group": "query-1chunk",
+    "query": "惠城马安广东药坊宝大健康产业生产厂房建设项目“10·11”一般高处坠落事故调查报告中关于监理及时发现佩戴的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 117,
+    "group": "query-1chunk",
+    "query": "惠城马安广东药坊宝大健康产业生产厂房建设项目“10·11”一般高处坠落事故调查报告中关于惠州市法定代表住所的情况是怎样的",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 118,
+    "group": "query-1chunk",
+    "query": "惠城水口“9·8”一般触电事故调查报告中关于作业特种高处的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 119,
+    "group": "query-1chunk",
+    "query": "惠城水口“9·8”一般触电事故调查报告中关于保护区线路架空的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 120,
+    "group": "query-1chunk",
+    "query": "发生202430日期时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 121,
+    "group": "query-2chunk",
+    "query": "惠城水口地下管网系统提升工程项目“4·10”一般窒息事故调查报告中关于CMSPRO惠城区CHANNEL的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 122,
+    "group": "query-2chunk",
+    "query": "惠城水口地下管网系统提升工程项目“4·10”一般窒息事故调查报告中关于安全施工岗位责任的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 123,
+    "group": "query-2chunk",
+    "query": "惠城水口地下管网系统提升工程项目“4·10”一般窒息事故调查报告中关于3.4生产从业人员的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 124,
+    "group": "query-2chunk",
+    "query": "自贸区象屿园区“4·9”一般 车辆伤害事故调查报告中关于2025保险0000kg的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 125,
+    "group": "query-2chunk",
+    "query": "自贸区象屿园区“4·9”一般 车辆伤害事故调查报告中关于四是天鑫晟规定的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 126,
+    "group": "query-2chunk",
+    "query": "自贸区象屿园区“4·9”一般 车辆伤害事故调查报告中关于运输道路监管的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 127,
+    "group": "query-2chunk",
+    "query": "自贸区象屿园区“4·9”一般 车辆伤害事故调查报告中关于第一款应急中华人民共和国的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 128,
+    "group": "query-2chunk",
+    "query": "珑誉花园项目建筑工地“1·15”物体打击事故调查报告中关于CMSPRO惠城区CHANNEL的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 129,
+    "group": "query-2chunk",
+    "query": "发生搜索专栏专题时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 130,
+    "group": "query-2chunk",
+    "query": "包茂高速陕西延安“8·26”特别重大道路交通事故调查报告中关于支部委员车辆驾驶安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 131,
+    "group": "query-2chunk",
+    "query": "惠州市鹅城大桥及引道工程（江北段）“12·6”一般物体打击事故调查报告中关于CMSPROCHANNELCODE的情况是怎",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 132,
+    "group": "query-2chunk",
+    "query": "发生指导部门海事时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 133,
+    "group": "query-2chunk",
+    "query": "发生运输顺利开展抢险救灾时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 134,
+    "group": "query-2chunk",
+    "query": "发生警示通行危险源时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 135,
+    "group": "query-2chunk",
+    "query": "新力花园项目建筑工地“9·23”高处坠亡事故的调查报告中关于04承包单位2002的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 136,
+    "group": "query-2chunk",
+    "query": "湖里金山“7·20”一般道路交通 事故调查报告中关于202422分许的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 137,
+    "group": "query-2chunk",
+    "query": "湖里金山“7·20”一般道路交通 事故调查报告中关于20252400的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 138,
+    "group": "query-2chunk",
+    "query": "湖里金山“7·20”一般道路交通 事故调查报告中关于车行道辅道东侧的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 139,
+    "group": "query-2chunk",
+    "query": "湖里金山“7·20”一般道路交通 事故调查报告中关于应急演练预案的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 140,
+    "group": "query-2chunk",
+    "query": "惠城水口TCL项目“9·16”一般高处坠落事故调查报告中关于提升机吊绳吊篮的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 141,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于事故现场平桥节筒壁的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 142,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于劳务奉信魏县的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 143,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于劳动合同劳动关系的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 144,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于布置线自197.1的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 145,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于预拌混凝土水泥的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 146,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于预拌搅拌站混凝土的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 147,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于丰城市信息化29的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 148,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于项目部承包李峻的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 149,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于电力安全监管不力的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 150,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于以上罚款50的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 151,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于......事故隐患施工单位的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 152,
+    "group": "query-2chunk",
+    "query": "海沧隧道“9·8”一般道路交通 事故调查报告中关于明材物流林志成的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 153,
+    "group": "query-2chunk",
+    "query": "京珠高速河南信阳“7·22”特别重大 卧铺客车燃烧事故调查报告中关于责任事故因涉嫌21的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 154,
+    "group": "query-2chunk",
+    "query": "惠城区仲恺大道“1·17”道路交通事故调查报告中关于改正责令生产的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 155,
+    "group": "query-2chunk",
+    "query": "惠城区河南岸街道“9·26”一般高处坠落亡人事故调查报告中关于CMSPROCHANNELCODE的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 156,
+    "group": "query-2chunk",
+    "query": "安全生产责任制度中对负责人集团公司协助有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.8
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 157,
+    "group": "query-2chunk",
+    "query": "安全生产责任制度中对交办充分考虑总师有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 158,
+    "group": "query-2chunk",
+    "query": "安全生产责任制度中对高速公路运营标准有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 159,
+    "group": "query-2chunk",
+    "query": "安全生产责任制度中对吉高负责财务预算有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 160,
+    "group": "query-2chunk",
+    "query": "湖里金山厦门齐洪物资回收有限公司 “10·16”一般高坠事故调查报告中关于湖里区调查组监委的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 161,
+    "group": "query-2chunk",
+    "query": "湖里金山厦门齐洪物资回收有限公司 “10·16”一般高坠事故调查报告中关于小散整改措施安全意识的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 162,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于10惠州市2022的情况是",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 163,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于生产具备安全的情况是怎样的",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 164,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于水运交通运输公路的情况是怎",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 165,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于惠城区生产管理局的情况是怎",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 166,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于安全生产单位的情况是怎样的",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 167,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于安全生产单位的情况是怎样的",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 168,
+    "group": "query-2chunk",
+    "query": "发生救援事故互救时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 169,
+    "group": "query-2chunk",
+    "query": "安全生产责任保险制度中对依据保险安全监管有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 170,
+    "group": "query-2chunk",
+    "query": "广东省惠州市“11·28”一般叉车碰撞事故调查报告中关于CMSPRO惠城区特种设备的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 171,
+    "group": "query-3chunk",
+    "query": "从业人员订立依法的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 172,
+    "group": "query-3chunk",
+    "query": "安全事故赔偿19的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 173,
+    "group": "query-3chunk",
+    "query": "应当部门移送的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 174,
+    "group": "query-3chunk",
+    "query": "查明责任事故应当的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 175,
+    "group": "query-3chunk",
+    "query": "五万元改正责令的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 176,
+    "group": "query-3chunk",
+    "query": "发生指挥机构防洪工程具体安排时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 177,
+    "group": "query-3chunk",
+    "query": "14.1脚手架登高的操作规程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 178,
+    "group": "query-3chunk",
+    "query": "2514.112的操作规程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 179,
+    "group": "query-3chunk",
+    "query": "立杆剪刀绑扎的操作规程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 180,
+    "group": "query-3chunk",
+    "query": "安全生产事故责任追究制度中对第二十二章有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 181,
+    "group": "query-3chunk",
+    "query": "安全生产事故责任追究制度中对事故责任人员或者有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 182,
+    "group": "query-3chunk",
+    "query": "安全生产事故责任追究制度中对责任情况10有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 183,
+    "group": "query-3chunk",
+    "query": "安全生产事故责任追究制度中对认定事故做出有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 184,
+    "group": "query-3chunk",
+    "query": "非法占有收受贿赂利用职权的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 185,
+    "group": "query-3chunk",
+    "query": "机动车通行城市道路的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 186,
+    "group": "query-3chunk",
+    "query": "行政处分禁闭交通警察的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 187,
+    "group": "query-3chunk",
+    "query": "罚款行政处罚加处的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 188,
+    "group": "query-3chunk",
+    "query": "交通交通标志标线的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 189,
+    "group": "query-3chunk",
+    "query": "道路依法恢复原状的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 190,
+    "group": "query-3chunk",
+    "query": "交通警察交通管理职权的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 191,
+    "group": "query-3chunk",
+    "query": "车辆驾驶应当立即的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 192,
+    "group": "query-3chunk",
+    "query": "非机动车右侧机动车的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 193,
+    "group": "query-3chunk",
+    "query": "设置应当道路的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 194,
+    "group": "query-3chunk",
+    "query": "机动车以下五百元的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 195,
+    "group": "query-3chunk",
+    "query": "机动车驾驶证吊销的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 196,
+    "group": "query-3chunk",
+    "query": "机动车牌证相应的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 197,
+    "group": "query-3chunk",
+    "query": "机动车驾驶安全的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 198,
+    "group": "query-3chunk",
+    "query": "应当故障清障车的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 199,
+    "group": "query-3chunk",
+    "query": "牌证工本费上缴国库的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Vector-only",
+    "index": 200,
+    "group": "query-3chunk",
+    "query": "交通警察交通管理违法行为的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 1,
+    "group": "query-1chunk",
+    "query": "安全奖惩考核制度中对吉林省高速公路集团有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 2,
+    "group": "query-1chunk",
+    "query": "安全奖惩考核制度中对重大事故责任事故有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 3,
+    "group": "query-1chunk",
+    "query": "生产安全事故隐患排查治理制度中对指挥部隐患集团公司有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 4,
+    "group": "query-1chunk",
+    "query": "生产安全事故隐患排查治理制度中对安全隐患检查及时有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 5,
+    "group": "query-1chunk",
+    "query": "湖里金山厦门真乐净环境有限公司 “8·10”一般高处坠落事故调查报告中关于调查组湖里区2024的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 6,
+    "group": "query-1chunk",
+    "query": "惠城区汝湖镇三和管桩厂“9·22”机械伤害事故调查报告中关于00xx张拉的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 7,
+    "group": "query-1chunk",
+    "query": "惠城区汝湖镇三和管桩厂“9·22”机械伤害事故调查报告中关于监督管理应急内该的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 8,
+    "group": "query-1chunk",
+    "query": "晋济高速公路山西晋城段岩后隧道\"3·1\"特别重大道路交通危化品燃爆事故调查报告中关于煤焦拥堵车辆的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 9,
+    "group": "query-1chunk",
+    "query": "晋济高速公路山西晋城段岩后隧道\"3·1\"特别重大道路交通危化品燃爆事故调查报告中关于营运收回货物的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 10,
+    "group": "query-1chunk",
+    "query": "晋济高速公路山西晋城段岩后隧道\"3·1\"特别重大道路交通危化品燃爆事故调查报告中关于值班室1619的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 11,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《公路水运工程生产安全重大事故隐患判定标准》的通知中关于2025的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.8
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 12,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《公路水运工程生产安全重大事故隐患判定标准》的通知中关于安全事故的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 13,
+    "group": "query-1chunk",
+    "query": "惠城三栋中洲南麓院“10·17”一般物体打击事故调查报告中关于承包本合同消防系统的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 14,
+    "group": "query-1chunk",
+    "query": "惠城三栋中洲南麓院“10·17”一般物体打击事故调查报告中关于事故隐患排查职工的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 15,
+    "group": "query-1chunk",
+    "query": "发生体育场馆物资场所时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 16,
+    "group": "query-1chunk",
+    "query": "惠城区龙丰街道“8•7”机械伤害事故调查报告中关于安全管理职责的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 17,
+    "group": "query-1chunk",
+    "query": "发生专项指挥机构职责时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 18,
+    "group": "query-1chunk",
+    "query": "发生国省干线公路时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 19,
+    "group": "query-1chunk",
+    "query": "发生指挥部报局整改措施时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 20,
+    "group": "query-1chunk",
+    "query": "反接40扳到的操作规程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 21,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于05惠州市2003的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 22,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于建字4413022017的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 23,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于安全生产安全检查的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 24,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于监理扣分安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 25,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于监督监督机构安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 26,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于脚手架原因作业的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 27,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于安全生产模板的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 28,
+    "group": "query-1chunk",
+    "query": "红花湖景区广东金榜健康泉水饮品股份有限公司“8.8”触电亡人事故调查报告中关于CMSPROCHANNELCODE的情况是",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 29,
+    "group": "query-1chunk",
+    "query": "交通运输综合应急预案中关于交通运输综合应急预案。有什么规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 30,
+    "group": "query-1chunk",
+    "query": "发生值守司局16时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 31,
+    "group": "query-1chunk",
+    "query": "发生报部海事局评估时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 32,
+    "group": "query-1chunk",
+    "query": "发生处置4.1信息时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 33,
+    "group": "query-1chunk",
+    "query": "发生30报局8.4时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 34,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《内河运输船舶重大事故隐患判定标准》的通知中关于载运停泊内河的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 35,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《内河运输船舶重大事故隐患判定标准》的通知中关于配员货物载运的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 36,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团三环东路清淤工程“3·21”窒息事故调查报告中关于12工程施工2021的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 37,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团三环东路清淤工程“3·21”窒息事故调查报告中关于现场作业经过的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 38,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团三环东路清淤工程“3·21”窒息事故调查报告中关于惠城承包单位由该的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 39,
+    "group": "query-1chunk",
+    "query": "惠城区世贸中心三期项目“9·9”高空坠物亡人事故调查报告中关于CMSPROCHANNELCODE的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.8
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 40,
+    "group": "query-1chunk",
+    "query": "惠城区世贸中心三期项目“9·9”高空坠物亡人事故调查报告中关于生产罚款五十万元的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 41,
+    "group": "query-1chunk",
+    "query": "惠城区世贸中心三期项目“9·9”高空坠物亡人事故调查报告中关于生产罚款规定的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 42,
+    "group": "query-1chunk",
+    "query": "惠城区世贸中心三期项目“9·9”高空坠物亡人事故调查报告中关于安全生产确保安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 43,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于管理机构监督运输的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 44,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于运输709国务院令的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 45,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于所得违法10的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 46,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于客运车辆照后抄告的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 47,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于重点对象执法工作的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 48,
+    "group": "query-1chunk",
+    "query": "风险评估与分级管控制度中对应急处置安全有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 49,
+    "group": "query-1chunk",
+    "query": "风险评估与分级管控制度中对致险安全安全意识有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 50,
+    "group": "query-1chunk",
+    "query": "与从业人员的劳动合同制度中对法律法规签订按照有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 51,
+    "group": "query-1chunk",
+    "query": "发生印发2016国办时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 52,
+    "group": "query-1chunk",
+    "query": "发生发布发布会授权时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 53,
+    "group": "query-1chunk",
+    "query": "15.115应经的操作规程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 54,
+    "group": "query-1chunk",
+    "query": "金属支架碘钨灯0.2的操作规程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 55,
+    "group": "query-1chunk",
+    "query": "34低洼积水的操作规程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 56,
+    "group": "query-1chunk",
+    "query": "间距6528.1的操作规程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 57,
+    "group": "query-1chunk",
+    "query": "发生队伍港口救援时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 58,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团公司下属排水中心城西所丰山泵站“5·19”一般高处坠落事故调查报告中关于CMSPRO惠城区CHANNEL的",
+    "recall@5": true,
+    "context_precision@5": 0.8
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 59,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团公司下属排水中心城西所丰山泵站“5·19”一般高处坠落事故调查报告中关于责任一岗双责追责的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 60,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团公司下属排水中心城西所丰山泵站“5·19”一般高处坠落事故调查报告中关于事故隐患生产安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 61,
+    "group": "query-1chunk",
+    "query": "全国人民代表大会常务委员会修正第十次的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 62,
+    "group": "query-1chunk",
+    "query": "危险物品物品或者的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 63,
+    "group": "query-1chunk",
+    "query": "改正处罚责令的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 64,
+    "group": "query-1chunk",
+    "query": "职责部门本法的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 65,
+    "group": "query-1chunk",
+    "query": "行政处罚监督管理负有的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 66,
+    "group": "query-1chunk",
+    "query": "监督管理监察职责的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 67,
+    "group": "query-1chunk",
+    "query": "建设项目危险物品装卸的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 68,
+    "group": "query-1chunk",
+    "query": "罚款五万元改正的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 69,
+    "group": "query-1chunk",
+    "query": "单位培训教育的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 70,
+    "group": "query-1chunk",
+    "query": "专职管理机构管理人员的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 71,
+    "group": "query-1chunk",
+    "query": "具备经营行业标准的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 72,
+    "group": "query-1chunk",
+    "query": "查明责任事故应当的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 73,
+    "group": "query-1chunk",
+    "query": "事故救援安全事故的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 74,
+    "group": "query-1chunk",
+    "query": "清单监督管理负有的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 75,
+    "group": "query-1chunk",
+    "query": "强制性国家标准国务院的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 76,
+    "group": "query-1chunk",
+    "query": "单位服务技术的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 77,
+    "group": "query-1chunk",
+    "query": "事故责任追究责任人员的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 78,
+    "group": "query-1chunk",
+    "query": "事故隐患管控分级的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 79,
+    "group": "query-1chunk",
+    "query": "国务院动火操作规程的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 80,
+    "group": "query-1chunk",
+    "query": "危险源应当单位的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 81,
+    "group": "query-1chunk",
+    "query": "重大隐患排查治理“双报告”制度中对安全事故隐患生产有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 82,
+    "group": "query-1chunk",
+    "query": "重大隐患排查治理“双报告”制度中对事故隐患负责人组织有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 83,
+    "group": "query-1chunk",
+    "query": "发生安全公共安全时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 84,
+    "group": "query-1chunk",
+    "query": "发生做好信息工作时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 85,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于安全规定港口法的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 86,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于超能力超范围安全的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 87,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于适用的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 88,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于安全指有防爆的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 89,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于易燃物质爆炸品的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 90,
+    "group": "query-1chunk",
+    "query": "惠城区三栋镇中洲云悦府工地“10·16”高处坠落事故调查报告中关于作业安全人员的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 91,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于机具施工现场配件有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 92,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于作业防护有权有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 93,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于国务院监督管理建设有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 94,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于抄送监督管理同级有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 95,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于特种设备监督管理报告有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 96,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于救援应急承包单位有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 97,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于应急救援配备有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 98,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于资质证书行政行政处分有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 99,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于责令资质证书资质等级有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 100,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于施工消防设施机具有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 101,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于科学管理推广应用第二章有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 102,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于资料单位有关有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 103,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于设计安全事故施工有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 104,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于监理施工应当有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 105,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于起重机械施工脚手架有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 106,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于安全检查施工单位单位有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 107,
+    "group": "query-1chunk",
+    "query": "惠城区桥东街道“2021·3·29”赫斯特酒吧装修项目高空坠落亡人事故调查报告中关于22惠州市东湖的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 108,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于积水坑存17的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 109,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于6.15.14.3的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 110,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于危品规划平面图的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 111,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于消防监督指导的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 112,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于验收建设项目环境保护的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 113,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于天津市诫勉47的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 114,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于生产吊销其具备的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 115,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于化学品应急预案的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 116,
+    "group": "query-1chunk",
+    "query": "惠城马安广东药坊宝大健康产业生产厂房建设项目“10·11”一般高处坠落事故调查报告中关于监理及时发现佩戴的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 117,
+    "group": "query-1chunk",
+    "query": "惠城马安广东药坊宝大健康产业生产厂房建设项目“10·11”一般高处坠落事故调查报告中关于惠州市法定代表住所的情况是怎样的",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 118,
+    "group": "query-1chunk",
+    "query": "惠城水口“9·8”一般触电事故调查报告中关于作业特种高处的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 119,
+    "group": "query-1chunk",
+    "query": "惠城水口“9·8”一般触电事故调查报告中关于保护区线路架空的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 120,
+    "group": "query-1chunk",
+    "query": "发生202430日期时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 121,
+    "group": "query-2chunk",
+    "query": "惠城水口地下管网系统提升工程项目“4·10”一般窒息事故调查报告中关于CMSPRO惠城区CHANNEL的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 122,
+    "group": "query-2chunk",
+    "query": "惠城水口地下管网系统提升工程项目“4·10”一般窒息事故调查报告中关于安全施工岗位责任的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 123,
+    "group": "query-2chunk",
+    "query": "惠城水口地下管网系统提升工程项目“4·10”一般窒息事故调查报告中关于3.4生产从业人员的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 124,
+    "group": "query-2chunk",
+    "query": "自贸区象屿园区“4·9”一般 车辆伤害事故调查报告中关于2025保险0000kg的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 125,
+    "group": "query-2chunk",
+    "query": "自贸区象屿园区“4·9”一般 车辆伤害事故调查报告中关于四是天鑫晟规定的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 126,
+    "group": "query-2chunk",
+    "query": "自贸区象屿园区“4·9”一般 车辆伤害事故调查报告中关于运输道路监管的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 127,
+    "group": "query-2chunk",
+    "query": "自贸区象屿园区“4·9”一般 车辆伤害事故调查报告中关于第一款应急中华人民共和国的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 128,
+    "group": "query-2chunk",
+    "query": "珑誉花园项目建筑工地“1·15”物体打击事故调查报告中关于CMSPRO惠城区CHANNEL的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 129,
+    "group": "query-2chunk",
+    "query": "发生搜索专栏专题时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 130,
+    "group": "query-2chunk",
+    "query": "包茂高速陕西延安“8·26”特别重大道路交通事故调查报告中关于支部委员车辆驾驶安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 131,
+    "group": "query-2chunk",
+    "query": "惠州市鹅城大桥及引道工程（江北段）“12·6”一般物体打击事故调查报告中关于CMSPROCHANNELCODE的情况是怎",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 132,
+    "group": "query-2chunk",
+    "query": "发生指导部门海事时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 133,
+    "group": "query-2chunk",
+    "query": "发生运输顺利开展抢险救灾时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 134,
+    "group": "query-2chunk",
+    "query": "发生警示通行危险源时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 135,
+    "group": "query-2chunk",
+    "query": "新力花园项目建筑工地“9·23”高处坠亡事故的调查报告中关于04承包单位2002的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 136,
+    "group": "query-2chunk",
+    "query": "湖里金山“7·20”一般道路交通 事故调查报告中关于202422分许的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 137,
+    "group": "query-2chunk",
+    "query": "湖里金山“7·20”一般道路交通 事故调查报告中关于20252400的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 138,
+    "group": "query-2chunk",
+    "query": "湖里金山“7·20”一般道路交通 事故调查报告中关于车行道辅道东侧的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 139,
+    "group": "query-2chunk",
+    "query": "湖里金山“7·20”一般道路交通 事故调查报告中关于应急演练预案的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 140,
+    "group": "query-2chunk",
+    "query": "惠城水口TCL项目“9·16”一般高处坠落事故调查报告中关于提升机吊绳吊篮的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 141,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于事故现场平桥节筒壁的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 142,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于劳务奉信魏县的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 143,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于劳动合同劳动关系的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 144,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于布置线自197.1的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 145,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于预拌混凝土水泥的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 146,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于预拌搅拌站混凝土的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 147,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于丰城市信息化29的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 148,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于项目部承包李峻的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 149,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于电力安全监管不力的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 150,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于以上罚款50的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 151,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于......事故隐患施工单位的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 152,
+    "group": "query-2chunk",
+    "query": "海沧隧道“9·8”一般道路交通 事故调查报告中关于明材物流林志成的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 153,
+    "group": "query-2chunk",
+    "query": "京珠高速河南信阳“7·22”特别重大 卧铺客车燃烧事故调查报告中关于责任事故因涉嫌21的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 154,
+    "group": "query-2chunk",
+    "query": "惠城区仲恺大道“1·17”道路交通事故调查报告中关于改正责令生产的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 155,
+    "group": "query-2chunk",
+    "query": "惠城区河南岸街道“9·26”一般高处坠落亡人事故调查报告中关于CMSPROCHANNELCODE的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 156,
+    "group": "query-2chunk",
+    "query": "安全生产责任制度中对负责人集团公司协助有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 157,
+    "group": "query-2chunk",
+    "query": "安全生产责任制度中对交办充分考虑总师有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 158,
+    "group": "query-2chunk",
+    "query": "安全生产责任制度中对高速公路运营标准有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 159,
+    "group": "query-2chunk",
+    "query": "安全生产责任制度中对吉高负责财务预算有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 160,
+    "group": "query-2chunk",
+    "query": "湖里金山厦门齐洪物资回收有限公司 “10·16”一般高坠事故调查报告中关于湖里区调查组监委的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 161,
+    "group": "query-2chunk",
+    "query": "湖里金山厦门齐洪物资回收有限公司 “10·16”一般高坠事故调查报告中关于小散整改措施安全意识的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 162,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于10惠州市2022的情况是",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 163,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于生产具备安全的情况是怎样的",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 164,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于水运交通运输公路的情况是怎",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 165,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于惠城区生产管理局的情况是怎",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 166,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于安全生产单位的情况是怎样的",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 167,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于安全生产单位的情况是怎样的",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 168,
+    "group": "query-2chunk",
+    "query": "发生救援事故互救时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 169,
+    "group": "query-2chunk",
+    "query": "安全生产责任保险制度中对依据保险安全监管有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 170,
+    "group": "query-2chunk",
+    "query": "广东省惠州市“11·28”一般叉车碰撞事故调查报告中关于CMSPRO惠城区特种设备的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 171,
+    "group": "query-3chunk",
+    "query": "从业人员订立依法的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 172,
+    "group": "query-3chunk",
+    "query": "安全事故赔偿19的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 173,
+    "group": "query-3chunk",
+    "query": "应当部门移送的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 174,
+    "group": "query-3chunk",
+    "query": "查明责任事故应当的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 175,
+    "group": "query-3chunk",
+    "query": "五万元改正责令的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 176,
+    "group": "query-3chunk",
+    "query": "发生指挥机构防洪工程具体安排时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 177,
+    "group": "query-3chunk",
+    "query": "14.1脚手架登高的操作规程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 178,
+    "group": "query-3chunk",
+    "query": "2514.112的操作规程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 179,
+    "group": "query-3chunk",
+    "query": "立杆剪刀绑扎的操作规程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 180,
+    "group": "query-3chunk",
+    "query": "安全生产事故责任追究制度中对第二十二章有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 181,
+    "group": "query-3chunk",
+    "query": "安全生产事故责任追究制度中对事故责任人员或者有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 182,
+    "group": "query-3chunk",
+    "query": "安全生产事故责任追究制度中对责任情况10有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 183,
+    "group": "query-3chunk",
+    "query": "安全生产事故责任追究制度中对认定事故做出有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 184,
+    "group": "query-3chunk",
+    "query": "非法占有收受贿赂利用职权的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 185,
+    "group": "query-3chunk",
+    "query": "机动车通行城市道路的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 186,
+    "group": "query-3chunk",
+    "query": "行政处分禁闭交通警察的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 187,
+    "group": "query-3chunk",
+    "query": "罚款行政处罚加处的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 188,
+    "group": "query-3chunk",
+    "query": "交通交通标志标线的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 189,
+    "group": "query-3chunk",
+    "query": "道路依法恢复原状的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 190,
+    "group": "query-3chunk",
+    "query": "交通警察交通管理职权的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 191,
+    "group": "query-3chunk",
+    "query": "车辆驾驶应当立即的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 192,
+    "group": "query-3chunk",
+    "query": "非机动车右侧机动车的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 193,
+    "group": "query-3chunk",
+    "query": "设置应当道路的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 194,
+    "group": "query-3chunk",
+    "query": "机动车以下五百元的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 195,
+    "group": "query-3chunk",
+    "query": "机动车驾驶证吊销的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 196,
+    "group": "query-3chunk",
+    "query": "机动车牌证相应的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 197,
+    "group": "query-3chunk",
+    "query": "机动车驾驶安全的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 198,
+    "group": "query-3chunk",
+    "query": "应当故障清障车的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 199,
+    "group": "query-3chunk",
+    "query": "牌证工本费上缴国库的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid(BM25+Vector)",
+    "index": 200,
+    "group": "query-3chunk",
+    "query": "交通警察交通管理违法行为的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 1,
+    "group": "query-1chunk",
+    "query": "安全奖惩考核制度中对吉林省高速公路集团有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 2,
+    "group": "query-1chunk",
+    "query": "安全奖惩考核制度中对重大事故责任事故有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 3,
+    "group": "query-1chunk",
+    "query": "生产安全事故隐患排查治理制度中对指挥部隐患集团公司有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 4,
+    "group": "query-1chunk",
+    "query": "生产安全事故隐患排查治理制度中对安全隐患检查及时有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 5,
+    "group": "query-1chunk",
+    "query": "湖里金山厦门真乐净环境有限公司 “8·10”一般高处坠落事故调查报告中关于调查组湖里区2024的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 6,
+    "group": "query-1chunk",
+    "query": "惠城区汝湖镇三和管桩厂“9·22”机械伤害事故调查报告中关于00xx张拉的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.8
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 7,
+    "group": "query-1chunk",
+    "query": "惠城区汝湖镇三和管桩厂“9·22”机械伤害事故调查报告中关于监督管理应急内该的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 8,
+    "group": "query-1chunk",
+    "query": "晋济高速公路山西晋城段岩后隧道\"3·1\"特别重大道路交通危化品燃爆事故调查报告中关于煤焦拥堵车辆的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 9,
+    "group": "query-1chunk",
+    "query": "晋济高速公路山西晋城段岩后隧道\"3·1\"特别重大道路交通危化品燃爆事故调查报告中关于营运收回货物的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 10,
+    "group": "query-1chunk",
+    "query": "晋济高速公路山西晋城段岩后隧道\"3·1\"特别重大道路交通危化品燃爆事故调查报告中关于值班室1619的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 11,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《公路水运工程生产安全重大事故隐患判定标准》的通知中关于2025的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 12,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《公路水运工程生产安全重大事故隐患判定标准》的通知中关于安全事故的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 13,
+    "group": "query-1chunk",
+    "query": "惠城三栋中洲南麓院“10·17”一般物体打击事故调查报告中关于承包本合同消防系统的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 14,
+    "group": "query-1chunk",
+    "query": "惠城三栋中洲南麓院“10·17”一般物体打击事故调查报告中关于事故隐患排查职工的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 15,
+    "group": "query-1chunk",
+    "query": "发生体育场馆物资场所时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 16,
+    "group": "query-1chunk",
+    "query": "惠城区龙丰街道“8•7”机械伤害事故调查报告中关于安全管理职责的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 17,
+    "group": "query-1chunk",
+    "query": "发生专项指挥机构职责时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 18,
+    "group": "query-1chunk",
+    "query": "发生国省干线公路时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 19,
+    "group": "query-1chunk",
+    "query": "发生指挥部报局整改措施时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 20,
+    "group": "query-1chunk",
+    "query": "反接40扳到的操作规程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 21,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于05惠州市2003的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 22,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于建字4413022017的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 23,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于安全生产安全检查的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 24,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于监理扣分安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 25,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于监督监督机构安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 26,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于脚手架原因作业的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 27,
+    "group": "query-1chunk",
+    "query": "惠城区合生上观国际七期项目建筑工地“10·13”坠亡事故调查报告中关于安全生产模板的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 28,
+    "group": "query-1chunk",
+    "query": "红花湖景区广东金榜健康泉水饮品股份有限公司“8.8”触电亡人事故调查报告中关于CMSPROCHANNELCODE的情况是",
+    "recall@5": true,
+    "context_precision@5": 0.8
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 29,
+    "group": "query-1chunk",
+    "query": "交通运输综合应急预案中关于交通运输综合应急预案。有什么规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 30,
+    "group": "query-1chunk",
+    "query": "发生值守司局16时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 31,
+    "group": "query-1chunk",
+    "query": "发生报部海事局评估时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 32,
+    "group": "query-1chunk",
+    "query": "发生处置4.1信息时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 33,
+    "group": "query-1chunk",
+    "query": "发生30报局8.4时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 34,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《内河运输船舶重大事故隐患判定标准》的通知中关于载运停泊内河的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 35,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《内河运输船舶重大事故隐患判定标准》的通知中关于配员货物载运的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 36,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团三环东路清淤工程“3·21”窒息事故调查报告中关于12工程施工2021的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 37,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团三环东路清淤工程“3·21”窒息事故调查报告中关于现场作业经过的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 38,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团三环东路清淤工程“3·21”窒息事故调查报告中关于惠城承包单位由该的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 39,
+    "group": "query-1chunk",
+    "query": "惠城区世贸中心三期项目“9·9”高空坠物亡人事故调查报告中关于CMSPROCHANNELCODE的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 1.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 40,
+    "group": "query-1chunk",
+    "query": "惠城区世贸中心三期项目“9·9”高空坠物亡人事故调查报告中关于生产罚款五十万元的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 41,
+    "group": "query-1chunk",
+    "query": "惠城区世贸中心三期项目“9·9”高空坠物亡人事故调查报告中关于生产罚款规定的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 42,
+    "group": "query-1chunk",
+    "query": "惠城区世贸中心三期项目“9·9”高空坠物亡人事故调查报告中关于安全生产确保安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 43,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于管理机构监督运输的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 44,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于运输709国务院令的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 45,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于所得违法10的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 46,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于客运车辆照后抄告的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 47,
+    "group": "query-1chunk",
+    "query": "长深高速江苏无锡“9·28”特别重大道路交通事故调查报告中关于重点对象执法工作的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 48,
+    "group": "query-1chunk",
+    "query": "风险评估与分级管控制度中对应急处置安全有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 49,
+    "group": "query-1chunk",
+    "query": "风险评估与分级管控制度中对致险安全安全意识有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 50,
+    "group": "query-1chunk",
+    "query": "与从业人员的劳动合同制度中对法律法规签订按照有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 51,
+    "group": "query-1chunk",
+    "query": "发生印发2016国办时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 52,
+    "group": "query-1chunk",
+    "query": "发生发布发布会授权时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 53,
+    "group": "query-1chunk",
+    "query": "15.115应经的操作规程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 54,
+    "group": "query-1chunk",
+    "query": "金属支架碘钨灯0.2的操作规程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 55,
+    "group": "query-1chunk",
+    "query": "34低洼积水的操作规程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 56,
+    "group": "query-1chunk",
+    "query": "间距6528.1的操作规程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 57,
+    "group": "query-1chunk",
+    "query": "发生队伍港口救援时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 58,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团公司下属排水中心城西所丰山泵站“5·19”一般高处坠落事故调查报告中关于CMSPRO惠城区CHANNEL的",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 59,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团公司下属排水中心城西所丰山泵站“5·19”一般高处坠落事故调查报告中关于责任一岗双责追责的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 60,
+    "group": "query-1chunk",
+    "query": "惠州市水务集团公司下属排水中心城西所丰山泵站“5·19”一般高处坠落事故调查报告中关于事故隐患生产安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 61,
+    "group": "query-1chunk",
+    "query": "全国人民代表大会常务委员会修正第十次的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 62,
+    "group": "query-1chunk",
+    "query": "危险物品物品或者的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 63,
+    "group": "query-1chunk",
+    "query": "改正处罚责令的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 64,
+    "group": "query-1chunk",
+    "query": "职责部门本法的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 65,
+    "group": "query-1chunk",
+    "query": "行政处罚监督管理负有的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 66,
+    "group": "query-1chunk",
+    "query": "监督管理监察职责的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 67,
+    "group": "query-1chunk",
+    "query": "建设项目危险物品装卸的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 68,
+    "group": "query-1chunk",
+    "query": "罚款五万元改正的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 69,
+    "group": "query-1chunk",
+    "query": "单位培训教育的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 70,
+    "group": "query-1chunk",
+    "query": "专职管理机构管理人员的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 71,
+    "group": "query-1chunk",
+    "query": "具备经营行业标准的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 72,
+    "group": "query-1chunk",
+    "query": "查明责任事故应当的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 73,
+    "group": "query-1chunk",
+    "query": "事故救援安全事故的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 74,
+    "group": "query-1chunk",
+    "query": "清单监督管理负有的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 75,
+    "group": "query-1chunk",
+    "query": "强制性国家标准国务院的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 76,
+    "group": "query-1chunk",
+    "query": "单位服务技术的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 77,
+    "group": "query-1chunk",
+    "query": "事故责任追究责任人员的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 78,
+    "group": "query-1chunk",
+    "query": "事故隐患管控分级的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 79,
+    "group": "query-1chunk",
+    "query": "国务院动火操作规程的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 80,
+    "group": "query-1chunk",
+    "query": "危险源应当单位的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 81,
+    "group": "query-1chunk",
+    "query": "重大隐患排查治理“双报告”制度中对安全事故隐患生产有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 82,
+    "group": "query-1chunk",
+    "query": "重大隐患排查治理“双报告”制度中对事故隐患负责人组织有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 83,
+    "group": "query-1chunk",
+    "query": "发生安全公共安全时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 84,
+    "group": "query-1chunk",
+    "query": "发生做好信息工作时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 85,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于安全规定港口法的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 86,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于超能力超范围安全的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 87,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于适用的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 88,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于安全指有防爆的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 89,
+    "group": "query-1chunk",
+    "query": "交通运输部办公厅关于印发《危险货物港口作业重大事故隐患判定标准》的通知中关于易燃物质爆炸品的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 90,
+    "group": "query-1chunk",
+    "query": "惠城区三栋镇中洲云悦府工地“10·16”高处坠落事故调查报告中关于作业安全人员的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 91,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于机具施工现场配件有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 92,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于作业防护有权有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 93,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于国务院监督管理建设有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 94,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于抄送监督管理同级有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 95,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于特种设备监督管理报告有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 96,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于救援应急承包单位有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 97,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于应急救援配备有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 98,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于资质证书行政行政处分有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 99,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于责令资质证书资质等级有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 100,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于施工消防设施机具有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 101,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于科学管理推广应用第二章有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 102,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于资料单位有关有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 103,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于设计安全事故施工有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 104,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于监理施工应当有哪些规定？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 105,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于起重机械施工脚手架有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 106,
+    "group": "query-1chunk",
+    "query": "建设工程安全生产管理条例中关于安全检查施工单位单位有哪些规定？",
+    "recall@5": true,
+    "context_precision@5": 0.6
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 107,
+    "group": "query-1chunk",
+    "query": "惠城区桥东街道“2021·3·29”赫斯特酒吧装修项目高空坠落亡人事故调查报告中关于22惠州市东湖的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 108,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于积水坑存17的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 109,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于6.15.14.3的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 110,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于危品规划平面图的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 111,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于消防监督指导的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 112,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于验收建设项目环境保护的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 113,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于天津市诫勉47的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 114,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于生产吊销其具备的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 115,
+    "group": "query-1chunk",
+    "query": "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告中关于化学品应急预案的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 116,
+    "group": "query-1chunk",
+    "query": "惠城马安广东药坊宝大健康产业生产厂房建设项目“10·11”一般高处坠落事故调查报告中关于监理及时发现佩戴的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 117,
+    "group": "query-1chunk",
+    "query": "惠城马安广东药坊宝大健康产业生产厂房建设项目“10·11”一般高处坠落事故调查报告中关于惠州市法定代表住所的情况是怎样的",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 118,
+    "group": "query-1chunk",
+    "query": "惠城水口“9·8”一般触电事故调查报告中关于作业特种高处的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 119,
+    "group": "query-1chunk",
+    "query": "惠城水口“9·8”一般触电事故调查报告中关于保护区线路架空的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 120,
+    "group": "query-1chunk",
+    "query": "发生202430日期时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 121,
+    "group": "query-2chunk",
+    "query": "惠城水口地下管网系统提升工程项目“4·10”一般窒息事故调查报告中关于CMSPRO惠城区CHANNEL的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 122,
+    "group": "query-2chunk",
+    "query": "惠城水口地下管网系统提升工程项目“4·10”一般窒息事故调查报告中关于安全施工岗位责任的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 123,
+    "group": "query-2chunk",
+    "query": "惠城水口地下管网系统提升工程项目“4·10”一般窒息事故调查报告中关于3.4生产从业人员的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 124,
+    "group": "query-2chunk",
+    "query": "自贸区象屿园区“4·9”一般 车辆伤害事故调查报告中关于2025保险0000kg的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 125,
+    "group": "query-2chunk",
+    "query": "自贸区象屿园区“4·9”一般 车辆伤害事故调查报告中关于四是天鑫晟规定的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 126,
+    "group": "query-2chunk",
+    "query": "自贸区象屿园区“4·9”一般 车辆伤害事故调查报告中关于运输道路监管的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 127,
+    "group": "query-2chunk",
+    "query": "自贸区象屿园区“4·9”一般 车辆伤害事故调查报告中关于第一款应急中华人民共和国的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 128,
+    "group": "query-2chunk",
+    "query": "珑誉花园项目建筑工地“1·15”物体打击事故调查报告中关于CMSPRO惠城区CHANNEL的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 129,
+    "group": "query-2chunk",
+    "query": "发生搜索专栏专题时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 130,
+    "group": "query-2chunk",
+    "query": "包茂高速陕西延安“8·26”特别重大道路交通事故调查报告中关于支部委员车辆驾驶安全的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 131,
+    "group": "query-2chunk",
+    "query": "惠州市鹅城大桥及引道工程（江北段）“12·6”一般物体打击事故调查报告中关于CMSPROCHANNELCODE的情况是怎",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 132,
+    "group": "query-2chunk",
+    "query": "发生指导部门海事时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 133,
+    "group": "query-2chunk",
+    "query": "发生运输顺利开展抢险救灾时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 134,
+    "group": "query-2chunk",
+    "query": "发生警示通行危险源时应急处置流程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 135,
+    "group": "query-2chunk",
+    "query": "新力花园项目建筑工地“9·23”高处坠亡事故的调查报告中关于04承包单位2002的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 136,
+    "group": "query-2chunk",
+    "query": "湖里金山“7·20”一般道路交通 事故调查报告中关于202422分许的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 137,
+    "group": "query-2chunk",
+    "query": "湖里金山“7·20”一般道路交通 事故调查报告中关于20252400的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 138,
+    "group": "query-2chunk",
+    "query": "湖里金山“7·20”一般道路交通 事故调查报告中关于车行道辅道东侧的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 139,
+    "group": "query-2chunk",
+    "query": "湖里金山“7·20”一般道路交通 事故调查报告中关于应急演练预案的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 140,
+    "group": "query-2chunk",
+    "query": "惠城水口TCL项目“9·16”一般高处坠落事故调查报告中关于提升机吊绳吊篮的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 141,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于事故现场平桥节筒壁的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 142,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于劳务奉信魏县的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 143,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于劳动合同劳动关系的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 144,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于布置线自197.1的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 145,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于预拌混凝土水泥的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 146,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于预拌搅拌站混凝土的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 147,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于丰城市信息化29的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 148,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于项目部承包李峻的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 149,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于电力安全监管不力的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 150,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于以上罚款50的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 151,
+    "group": "query-2chunk",
+    "query": "江西丰城发电厂“11·24”冷却塔施工平台坍塌特别重大事故调查报告中关于......事故隐患施工单位的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 152,
+    "group": "query-2chunk",
+    "query": "海沧隧道“9·8”一般道路交通 事故调查报告中关于明材物流林志成的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 153,
+    "group": "query-2chunk",
+    "query": "京珠高速河南信阳“7·22”特别重大 卧铺客车燃烧事故调查报告中关于责任事故因涉嫌21的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 154,
+    "group": "query-2chunk",
+    "query": "惠城区仲恺大道“1·17”道路交通事故调查报告中关于改正责令生产的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 155,
+    "group": "query-2chunk",
+    "query": "惠城区河南岸街道“9·26”一般高处坠落亡人事故调查报告中关于CMSPROCHANNELCODE的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.8
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 156,
+    "group": "query-2chunk",
+    "query": "安全生产责任制度中对负责人集团公司协助有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.8
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 157,
+    "group": "query-2chunk",
+    "query": "安全生产责任制度中对交办充分考虑总师有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 158,
+    "group": "query-2chunk",
+    "query": "安全生产责任制度中对高速公路运营标准有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 159,
+    "group": "query-2chunk",
+    "query": "安全生产责任制度中对吉高负责财务预算有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 160,
+    "group": "query-2chunk",
+    "query": "湖里金山厦门齐洪物资回收有限公司 “10·16”一般高坠事故调查报告中关于湖里区调查组监委的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 161,
+    "group": "query-2chunk",
+    "query": "湖里金山厦门齐洪物资回收有限公司 “10·16”一般高坠事故调查报告中关于小散整改措施安全意识的情况是怎样的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 162,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于10惠州市2022的情况是",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 163,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于生产具备安全的情况是怎样的",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 164,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于水运交通运输公路的情况是怎",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 165,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于惠城区生产管理局的情况是怎",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 166,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于安全生产单位的情况是怎样的",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 167,
+    "group": "query-2chunk",
+    "query": "惠城水口惠霞高速东江特大桥二集中钢筋加工场“2023·2·22”一般机械伤害事故调查报告中关于安全生产单位的情况是怎样的",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 168,
+    "group": "query-2chunk",
+    "query": "发生救援事故互救时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 169,
+    "group": "query-2chunk",
+    "query": "安全生产责任保险制度中对依据保险安全监管有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 170,
+    "group": "query-2chunk",
+    "query": "广东省惠州市“11·28”一般叉车碰撞事故调查报告中关于CMSPRO惠城区特种设备的情况是怎样的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 171,
+    "group": "query-3chunk",
+    "query": "从业人员订立依法的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 172,
+    "group": "query-3chunk",
+    "query": "安全事故赔偿19的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 173,
+    "group": "query-3chunk",
+    "query": "应当部门移送的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 174,
+    "group": "query-3chunk",
+    "query": "查明责任事故应当的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 175,
+    "group": "query-3chunk",
+    "query": "五万元改正责令的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 176,
+    "group": "query-3chunk",
+    "query": "发生指挥机构防洪工程具体安排时应急处置流程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 177,
+    "group": "query-3chunk",
+    "query": "14.1脚手架登高的操作规程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 178,
+    "group": "query-3chunk",
+    "query": "2514.112的操作规程是什么？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 179,
+    "group": "query-3chunk",
+    "query": "立杆剪刀绑扎的操作规程是什么？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 180,
+    "group": "query-3chunk",
+    "query": "安全生产事故责任追究制度中对第二十二章有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 181,
+    "group": "query-3chunk",
+    "query": "安全生产事故责任追究制度中对事故责任人员或者有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 182,
+    "group": "query-3chunk",
+    "query": "安全生产事故责任追究制度中对责任情况10有什么具体要求？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 183,
+    "group": "query-3chunk",
+    "query": "安全生产事故责任追究制度中对认定事故做出有什么具体要求？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 184,
+    "group": "query-3chunk",
+    "query": "非法占有收受贿赂利用职权的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 185,
+    "group": "query-3chunk",
+    "query": "机动车通行城市道路的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 186,
+    "group": "query-3chunk",
+    "query": "行政处分禁闭交通警察的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 187,
+    "group": "query-3chunk",
+    "query": "罚款行政处罚加处的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 188,
+    "group": "query-3chunk",
+    "query": "交通交通标志标线的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 189,
+    "group": "query-3chunk",
+    "query": "道路依法恢复原状的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 190,
+    "group": "query-3chunk",
+    "query": "交通警察交通管理职权的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 191,
+    "group": "query-3chunk",
+    "query": "车辆驾驶应当立即的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 192,
+    "group": "query-3chunk",
+    "query": "非机动车右侧机动车的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 193,
+    "group": "query-3chunk",
+    "query": "设置应当道路的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 194,
+    "group": "query-3chunk",
+    "query": "机动车以下五百元的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 195,
+    "group": "query-3chunk",
+    "query": "机动车驾驶证吊销的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.4
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 196,
+    "group": "query-3chunk",
+    "query": "机动车牌证相应的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 197,
+    "group": "query-3chunk",
+    "query": "机动车驾驶安全的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 198,
+    "group": "query-3chunk",
+    "query": "应当故障清障车的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 199,
+    "group": "query-3chunk",
+    "query": "牌证工本费上缴国库的法律责任是怎么规定的？",
+    "recall@5": false,
+    "context_precision@5": 0.0
+  },
+  {
+    "strategy": "Hybrid+Rerank",
+    "index": 200,
+    "group": "query-3chunk",
+    "query": "交通警察交通管理违法行为的法律责任是怎么规定的？",
+    "recall@5": true,
+    "context_precision@5": 0.2
+  }
+]
